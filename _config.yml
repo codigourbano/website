@@ -1,3 +1,5 @@
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.codigourbano.org" # the base hostname & protocol for your site
 baseurl: "" # the subpath of your site, e.g. /blog
-title: "" # the name of your site, e.g. ACME Corp.
+title: "Código Urbano" # the name of your site
+description: "blog sobre dados abertos e tecnologias livres para as cidades"
+lang: "pt_BR"
