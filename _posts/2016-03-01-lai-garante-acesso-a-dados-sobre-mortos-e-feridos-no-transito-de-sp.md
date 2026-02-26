@@ -1,6 +1,7 @@
 ---
 title: "LAI garante acesso a dados sobre mortos e feridos no trânsito de SP"
 date: 2016-03-01
+layout: post
 categories: 
   - "bases-publicas"
 tags: 

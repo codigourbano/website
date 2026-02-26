@@ -1,6 +1,7 @@
 ---
 title: "O desafio dos dados abertos para monitorar a qualidade do ar em SP"
 date: 2016-04-13
+layout: post
 categories: 
   - "mapas"
   - "sensores"

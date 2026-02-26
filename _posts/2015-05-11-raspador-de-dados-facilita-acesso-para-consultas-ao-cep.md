@@ -1,6 +1,7 @@
 ---
 title: "Raspador de dados facilita acesso para consultas ao CEP"
 date: 2015-05-11
+layout: post
 categories: 
   - "liberteocep"
   - "bases-publicas"

@@ -1,6 +1,7 @@
 ---
 title: "São Paulo recebe encontro latino-americano do OpenStreetMap"
 date: 2016-10-07
+layout: post
 categories: 
   - "mapas"
   - "mapatonas"

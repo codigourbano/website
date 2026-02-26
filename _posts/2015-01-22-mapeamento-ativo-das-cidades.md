@@ -1,6 +1,7 @@
 ---
 title: "Mapeamento ativo das cidades"
 date: 2015-01-22
+layout: post
 categories: 
   - "mapas"
 tags: 

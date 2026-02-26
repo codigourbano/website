@@ -1,6 +1,7 @@
 ---
 title: "Como mapear infraestrutura para bicicletas?"
 date: 2015-06-12
+layout: post
 categories: 
   - "mapas"
 tags: 

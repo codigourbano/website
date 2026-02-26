@@ -1,6 +1,7 @@
 ---
 title: "Íntegra do posicionamento dos Correios sobre a abertura da base de dados do CEP"
 date: 2015-03-12
+layout: post
 categories: 
   - "bases-publicas"
 tags: 

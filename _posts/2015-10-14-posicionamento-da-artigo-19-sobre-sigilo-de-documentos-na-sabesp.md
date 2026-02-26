@@ -1,6 +1,7 @@
 ---
 title: "ARTIGO 19 questiona sigilo de documentos da Sabesp"
 date: 2015-10-14
+layout: post
 categories: 
   - "bases-publicas"
 tags: 

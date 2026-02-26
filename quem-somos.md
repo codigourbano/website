@@ -1,14 +1,20 @@
 ---
 title: "Quem somos"
-date: 2015-01-12
+layout: default
 ---
 
-<iframe src="https://pictures.lytro.com/lyt-19402691188300/pictures/911195/embed?token=3bff60c2-896e-11e4-819c-22000a2da285" width="600" height="670" frameborder="0" scrolling="no" allowfullscreen="allowfullscreen"></iframe>
+O Código Urbano foi uma frente de abertura de dados e produção de tecnologias livres para as cidades. Foi uma iniciativa que fez parte de um conjunto de ações voltadas para construção de conhecimento e de ferramentas que facilitaram a participação direta da sociedade no acompanhamento de questões políticas, econômicas, sociais e ambientais.
 
-_Foto: Daniel Roman_
+**Princípios:**
+- Transparência
+- Licenças abertas
+- Projetos colaborativos
+- Dados públicos como bem comum
 
-O Código Urbano é uma frente de abertura de dados e produção de tecnologias livres para as cidades. Trata-se de uma iniciativa que faz parte de um conjunto de ações voltadas para construção de conhecimento e de ferramentas que facilitem a participação direta da sociedade no acompanhamento de questões políticas, econômicas, sociais e ambientais. Acreditamos em transparência, em licenças abertas e projetos colaborativos.
+Este projeto foi desenvolvido entre 2014 e 2016 em São Paulo, Brasil, focado em:
+- Dados abertos urbanos
+- Mapeamento colaborativo (OpenStreetMap)
+- Monitoramento ambiental
+- Tecnologias livres para cidades
 
-Para entrar em contato conosco, preencha o formulário abaixo ou escreva para [contato@codigourbano.org](mailto:contato@codigourbano.org).
-
-\[contact-form to='contato@codigourbano.org' subject='Contato através do site'\]\[contact-field label='Nome' type='name' required='1'/\]\[contact-field label='Email' type='email' required='1'/\]\[contact-field label='Mensagem' type='textarea' required='1'/\]\[/contact-form\]
+**Arquivado:** Este projeto está descontinuado desde 2016. O site permanece como arquivo histórico das atividades realizadas.

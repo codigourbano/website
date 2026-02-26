@@ -1,6 +1,7 @@
 ---
 title: "Como nomear ruas no OpenStreetMap a partir de mapas do IBGE"
 date: 2015-06-19
+layout: post
 categories: 
   - "mapas"
 tags: 

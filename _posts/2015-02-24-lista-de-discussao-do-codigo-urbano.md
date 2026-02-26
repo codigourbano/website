@@ -1,6 +1,7 @@
 ---
 title: "Lista de discussão do Código Urbano"
 date: 2015-02-24
+layout: post
 categories: 
   - "projetos"
 tags: 

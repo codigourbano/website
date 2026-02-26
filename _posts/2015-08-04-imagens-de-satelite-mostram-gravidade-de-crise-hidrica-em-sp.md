@@ -1,6 +1,7 @@
 ---
 title: "Imagens de satélite mostram gravidade de crise hídrica em SP"
 date: 2015-08-04
+layout: post
 categories: 
   - "satelites"
 tags: 

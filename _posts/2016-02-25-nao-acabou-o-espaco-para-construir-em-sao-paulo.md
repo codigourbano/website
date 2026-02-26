@@ -1,6 +1,7 @@
 ---
 title: "Mapa possibilita visualização de terrenos subaproveitados em SP"
 date: 2016-02-25
+layout: post
 categories: 
   - "bases-publicas"
   - "mapas"

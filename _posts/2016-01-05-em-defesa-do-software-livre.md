@@ -1,6 +1,7 @@
 ---
 title: "Em defesa do software livre"
 date: 2016-01-05
+layout: post
 categories: 
   - "artigos-analises"
 tags: 

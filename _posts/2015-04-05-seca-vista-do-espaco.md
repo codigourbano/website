@@ -1,6 +1,7 @@
 ---
 title: "Seca vista do espaço"
 date: 2015-04-05
+layout: post
 categories: 
   - "2"
 ---

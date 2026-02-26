@@ -1,6 +1,7 @@
 ---
 title: "Mapatona de Ciclovias"
 date: 2015-01-12
+layout: post
 categories: 
   - "mapas"
   - "mapatonas"

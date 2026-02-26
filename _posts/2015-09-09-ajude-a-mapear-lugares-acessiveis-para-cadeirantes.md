@@ -1,6 +1,7 @@
 ---
 title: "Ajude a mapear lugares acessíveis para cadeirantes"
 date: 2015-09-09
+layout: post
 categories: 
   - "mapas"
 tags: 

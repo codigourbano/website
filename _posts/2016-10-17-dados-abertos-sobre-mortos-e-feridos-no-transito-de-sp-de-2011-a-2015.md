@@ -1,6 +1,7 @@
 ---
 title: "Dados abertos sobre mortos e feridos no trânsito de SP de 2011 a 2015"
 date: 2016-10-17
+layout: post
 categories: 
   - "bases-publicas"
 tags: 
