@@ -28,7 +28,7 @@ Ao navegar, vale aproximar o zoom para visualizar detalhes de diferentes áreas,
 
 O mesmo vale para a vizinhança da praia de Copacabana no Rio de Janeiro:
 
-[![](/assets/images/cadeirantes-rj-750x451-1.png)](https://www.codigourbano.org/wp-content/uploads/2015/09/cadeirantes-rj.png)
+[![](/assets/images/cadeirantes-rj-750x451-1.png)](/assets/images/2015/09/cadeirantes-rj.png)
 
 Na versão em outras línguas que não alemão ou inglês, o site trava de quando em quando e apresenta algumas falhas, como trechos não traduzidos. Mas a iniciativa merece atenção.
 
@@ -38,4 +38,4 @@ Na versão em outras línguas que não alemão ou inglês, o site trava de quand
 A legislação brasileira também prevê que informações sobre acessibilidade devem ser publicizadas, inclusive com a instalação do Símbolo Internacional de Acesso. Tal determinação está prevista na lei [7.405/1985](http://www.planalto.gov.br/ccivil_03/leis/1980-1988/L7405.htm). Sobre acessibilidade, vale consultar também a [página especial sobre o tema do Ministério Público Federal](http://www.turminha.mpf.mp.br/viva-a-diferenca/acessibilidade/o-que-e-acessibilidade-e-respeito-aos-deficientes-1), que por meio da [Procuradoria Federal dos Direitos do Cidadão](http://pfdc.pgr.mpf.mp.br/#&panel1-3&panel2-2&panel3-2), atua para que essas leis sejam cumpridas. Os procuradores têm o dever de fiscalizar o cumprimento das leis que garantem direitos iguais para todos e podem receber denúncias de irregularidades. Veja os [nomes e endereços dos procuradores dos Direitos do Cidadão](http://pfdc.pgr.mpf.mp.br/institucional/prdcs/contatos/) em todos os estados.
 
 **Mapeamento aberto e ativo**  
-_A frente de abertura de dados e desenvolvimento de tecnologias livres Código Urbano apoia, desde o seu lançamento, a construção e fortalecimento de mapas livres. A primeira atividade realizada por este projeto, em janeiro de 2015, foi uma [mapatona](https://www.codigourbano.org/mapatona-de-ciclovias/) para ajudar no mapeamento livre de infraestrutura cicloviária. Depois disso, publicamos guias sobre [como mapear infraestrutura cicloviária](https://www.codigourbano.org/como-mapear-infraestrutura-para-bicicletas/), e [como nomear ruas](https://www.codigourbano.org/como-nomear-ruas-no-openstreetmap-a-partir-de-mapas-do-ibge/) a partir de mapas do IBGE._
+_A frente de abertura de dados e desenvolvimento de tecnologias livres Código Urbano apoia, desde o seu lançamento, a construção e fortalecimento de mapas livres. A primeira atividade realizada por este projeto, em janeiro de 2015, foi uma [mapatona](/2015/01/12/mapatona-de-ciclovias/) para ajudar no mapeamento livre de infraestrutura cicloviária. Depois disso, publicamos guias sobre [como mapear infraestrutura cicloviária](/2015/06/12/como-mapear-infraestrutura-para-bicicletas/), e [como nomear ruas](/2015/06/19/como-nomear-ruas-no-openstreetmap-a-partir-de-mapas-do-ibge/) a partir de mapas do IBGE._

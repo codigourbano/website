@@ -50,7 +50,7 @@ O projeto acabou [aprovado pela Assembleia Legislativa no final de 2014](http:/
 
 Para mensurar os efeitos da alteração de legislação nos próximos anos pesquisadores e acadêmicos hoje podem contar com a ajuda de satélites e tecnologias específicas. É fácil estabelecer parâmetros e monitorar casos específicos, como o da Represa de Jaguari. Além da comparação pura e simples de imagens, dá para desenvolver sistemas que, com a ajuda de filtros e modelos matemáticos, podem alertar automaticamente variações drásticas. Como exemplo, com a ajuda do [Resemble](http://huddle.github.io/Resemble.js/), ferramenta [aberta](https://github.com/Huddle/Resemble.js) de análise e comparação de imagens, organizamos essa representação que destaca em rosa as mudanças registradas no nível da represa de Jaguari de 2010 a 2014.
 
-[![](/assets/images/contraste-represa.png)](https://www.codigourbano.org/wp-content/uploads/2015/08/contraste-represa.png)
+[![](/assets/images/contraste-represa.png)](/assets/images/2015/08/contraste-represa.png)
 
 _\* Texto atualizado em 5 de agosto. As imagens em questão são do Landsat 7 e não do 8, como informado anteriormente. Correção feita após alerta de Luiz Gustavo Gonçalves nos comentários abaixo, a quem o Código Urbano agradece._
 

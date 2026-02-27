@@ -3,3 +3,4 @@ baseurl: "" # the subpath of your site, e.g. /blog
 title: "Código Urbano" # the name of your site
 description: "blog sobre dados abertos e tecnologias livres para as cidades"
 lang: "pt_BR"
+permalink: /:year/:month/:day/:title/

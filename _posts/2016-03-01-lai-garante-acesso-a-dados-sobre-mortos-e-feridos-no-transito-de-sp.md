@@ -22,7 +22,7 @@ O arquivo "_Protocolo PR 12024.accdb_" está no formato proprietário [Microsof
 
 <figure>
 
-[![](/assets/images/mapa-ocorrencias-286x300-1.png)](https://www.codigourbano.org/wp-content/uploads/2016/02/mapa-ocorrencias.png)
+[![](/assets/images/mapa-ocorrencias-286x300-1.png)](/assets/images/2016/02/mapa-ocorrencias.png)
 
 <figcaption>
 
@@ -47,7 +47,7 @@ Abrir dados, neste sentido, é também convidar a população a participar das d
 
 Esta base de dados é a primeira a ser disponibilizada na [página](http://transparencia.prefeitura.sp.gov.br/acesso-a-informacao/Paginas/CMAI-Comiss%C3%A3o-Municipal-de-Acesso-%C3%A0-Informa%C3%A7%C3%A3o.aspx) da Comissão Municipal de Acesso à Informação, no portal Transparência da Prefeitura Municipal de São Paulo. O precedente abre caminho para que os relatórios de outros anos (2015 e anos anteriores) sejam disponibilizados em formato legível por máquina, possibilitando a criação de mais visualizações especificas.
 
-_Leia também: [Como usar a Lei de Acesso à Informação](https://www.codigourbano.org/como-usar-a-lei-de-acesso-a-informacao/)_
+_Leia também: [Como usar a Lei de Acesso à Informação](/2015/02/04/como-usar-a-lei-de-acesso-a-informacao/)_
 
 _\* Evitamos usar "acidentes" de trânsito neste texto, apesar de o termo aparecer inclusive no nome do relatório sobre colisões e atropelamentos em São Paulo. Conforme [explica Daniel Guth](http://abicicletanacidade.blogfolha.uol.com.br/2016/02/15/carros-vs-nao-carros/?cmpid=comptw), diretor de participação da [Ciclocidade:](http://www.ciclocidade.org.br/)_ 
 

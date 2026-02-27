@@ -19,7 +19,7 @@ Após importar um PDF ao programa, é possível marcar as áreas onde estão pos
 
 <figure>
 
-[![](/assets/images/Captura-de-tela-2015-10-16-15.29.14-1024x637.png)](https://www.codigourbano.org/wp-content/uploads/2015/10/Captura-de-tela-2015-10-16-15.29.14.png)
+[![](/assets/images/Captura-de-tela-2015-10-16-15.29.14-1024x637.png)](/assets/images/2015/10/Captura-de-tela-2015-10-16-15.29.14.png)
 
 <figcaption>
 

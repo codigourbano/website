@@ -24,11 +24,11 @@ A ARTIGO 19, organização que se pauta pela [defesa do direito à informação]
 
 <figure>
 
-[![](/assets/images/cantareira-landsat8.png)](https://www.codigourbano.org/wp-content/uploads/2015/10/cantareira-landsat8.png)
+[![](/assets/images/cantareira-landsat8.png)](/assets/images/2015/10/cantareira-landsat8.png)
 
 <figcaption>
 
-_Imagem aérea captada na última sexta-feira, dia 9, demonstra o quanto a principal represa do Sistema Cantareira encolheu. Frente à seca de informações, o [monitoramento por satélites](https://www.codigourbano.org/imagens-de-satelite-mostram-gravidade-de-crise-hidrica-em-sp/) ajuda a avaliar a gravidade da situação. Imagem: [Landsat](http://landsatlook.usgs.gov/viewer.html)_
+_Imagem aérea captada na última sexta-feira, dia 9, demonstra o quanto a principal represa do Sistema Cantareira encolheu. Frente à seca de informações, o [monitoramento por satélites](/2015/08/04/imagens-de-satelite-mostram-gravidade-de-crise-hidrica-em-sp/) ajuda a avaliar a gravidade da situação. Imagem: [Landsat](http://landsatlook.usgs.gov/viewer.html)_
 
 </figcaption>
 

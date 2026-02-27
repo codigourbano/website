@@ -22,8 +22,8 @@ Trata-se da segunda edição do encontro. A primeira aconteceu em setembro de 20
 O OpenStreetMap é um mapa colaborativo aberto criado e mantido por diferentes comunidades de todo o planeta, por meio de uma estrutura radicalmente democrática e transparente. Tem como princípio básico o compartilhamento livre de informações, permitindo acesso sem custo a informações sobre a geografia e localização de diferentes países e regiões.
 
 **Sobre mapas abertos, leia também:**  
-[Mapatona de Ciclovias](https://www.codigourbano.org/mapatona-de-ciclovias/)  
-[Mapeamento ativo das cidades](https://www.codigourbano.org/mapeamento-ativo-das-cidades/)  
-[Como mapear infraestrutura para bicicletas?](https://www.codigourbano.org/como-mapear-infraestrutura-para-bicicletas/)  
-[Como nomear ruas no OpenStreetMap a partir de mapas do IBGE](https://www.codigourbano.org/como-nomear-ruas-no-openstreetmap-a-partir-de-mapas-do-ibge/)  
-[Ajude a mapear lugares acessíveis para cadeirantes](https://www.codigourbano.org/ajude-a-mapear-lugares-acessiveis-para-cadeirantes/)
+[Mapatona de Ciclovias](/2015/01/12/mapatona-de-ciclovias/)  
+[Mapeamento ativo das cidades](/2015/01/22/mapeamento-ativo-das-cidades/)  
+[Como mapear infraestrutura para bicicletas?](/2015/06/12/como-mapear-infraestrutura-para-bicicletas/)  
+[Como nomear ruas no OpenStreetMap a partir de mapas do IBGE](/2015/06/19/como-nomear-ruas-no-openstreetmap-a-partir-de-mapas-do-ibge/)  
+[Ajude a mapear lugares acessíveis para cadeirantes](/2015/09/09/ajude-a-mapear-lugares-acessiveis-para-cadeirantes/)
