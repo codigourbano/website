@@ -1,6 +1,7 @@
 ---
 title: "Sobre"
 layout: default
+permalink: /sobre/
 ---
 
 O Código Urbano foi uma iniciativa de abertura de dados e produção de tecnologias livres para as cidades. Entre 2014 e 2016, em São Paulo, desenvolvemos ferramentas para facilitar a participação direta da sociedade no acompanhamento de questões políticas, econômicas, sociais e ambientais.
