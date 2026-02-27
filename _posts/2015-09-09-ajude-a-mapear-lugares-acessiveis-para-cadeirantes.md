@@ -28,7 +28,7 @@ Ao navegar, vale aproximar o zoom para visualizar detalhes de diferentes áreas,
 
 O mesmo vale para a vizinhança da praia de Copacabana no Rio de Janeiro:
 
-[![](/assets/images/cadeirantes-rj-750x451-1.png)](/assets/images/2015/09/cadeirantes-rj.png)
+[![](/assets/images/cadeirantes-rj-750x451-1.png)](/assets/images/cadeirantes-rj-750x451-1.png)
 
 Na versão em outras línguas que não alemão ou inglês, o site trava de quando em quando e apresenta algumas falhas, como trechos não traduzidos. Mas a iniciativa merece atenção.
 

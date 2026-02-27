@@ -22,7 +22,7 @@ O projeto foi lançado no último Dia Internacional da Mulher, 8 de março, po
 
 <figure>
 
-[![](/assets/images/chave151.png)](/assets/images/2015/07/chave151.png)
+[![](/assets/images/chave151.png)](/assets/images/chave151.png)
 
 <figcaption>
 
@@ -39,7 +39,7 @@ A inspiração veio com as oficinas de mecânica que as [Pedalinas](https://peda
 
 <figure>
 
-[![](/assets/images/dedo.png)](/assets/images/2015/07/dedo.png)
+[![](/assets/images/dedo.png)](/assets/images/dedo.png)
 
 <figcaption>
 

@@ -18,9 +18,9 @@ tags:
 
 **Por Daniel Santini, Damian Bown, Tiago Fassoni e Vitor George**
 
-Com o objetivo de tentar ajudar a melhorar o mapeamento colaborativo de infraestrutura cicloviária no Brasil, organizamos um  **"Guia de mapeamento cicloviário"** (clique para baixar o documento em formato [PDF](/assets/images/2015/06/Guia-de-mapeamento-ciclovi--rio.pdf) ou [Word](/assets/images/2015/06/Guia-de-mapeamento-ciclovi--rio.docx). O documento foi produzido pelo [Citymapper](https://citymapper.com/sao-paulo) e traduzido pela equipe do Código Urbano em um trabalho conjunto.
+Com o objetivo de tentar ajudar a melhorar o mapeamento colaborativo de infraestrutura cicloviária no Brasil, organizamos um  **"Guia de mapeamento cicloviário"** (clique para baixar o documento em formato [PDF](/assets/images/Guia-de-mapeamento-ciclovi--rio.pdf) ou [Word](/assets/images/Guia-de-mapeamento-ciclovi--rio.docx). O documento foi produzido pelo [Citymapper](https://citymapper.com/sao-paulo) e traduzido pela equipe do Código Urbano em um trabalho conjunto.
 
-[![mapear](/assets/images/mapear.png)](/assets/images/2015/06/mapear.png)
+[![mapear](/assets/images/mapear.png)](/assets/images/mapear.png)
 
 O guia traz orientações sobre como identificar e mapear ciclovias, ciclofaixas e ciclorrotas no  [OpenStreetMap](https://www.openstreetmap.org/), plataforma cuja essência são os [dados abertos](https://www.openstreetmap.org/copyright). O mapeamento colaborativo serve para identificar a rede atual, ajudando ciclistas na escolha do melhor caminho. O acompanhamento aberto da infraestrutura instalada ajuda também a monitorar a qualidade de implantação do sistema cicloviário. Atualmente a prefeitura de São Paulo disponibiliza o mapa oficial no [Google Maps](https://www.google.com/maps/d/u/0/viewer?dg=feature&ll=-23.577833,-46.604691&t=m&source=embed&ie=UTF8&msa=0&spn=0.302075,0.439453&z=11&mid=z9TqTcegPvdk.kD1kEBduCkvI), que é uma plataforma fechada.
 

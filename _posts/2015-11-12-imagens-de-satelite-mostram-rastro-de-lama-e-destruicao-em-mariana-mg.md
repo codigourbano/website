@@ -35,6 +35,6 @@ No destaque da visualização abaixo, parte das casas do distrito de Bento Rodri
 **Mapas livres e humanitários  
 **As imagens de satélite inseridas nesta matéria também estão servindo de base para um grupo de voluntários de todo o Brasil que, remotamente, estão produzindo um novo mapa da região. Estas informações são editadas e distribuídas no [OpenStreetMap](http://www.openstreetmap.org), o mapa aberto do mundo. Todos os dados produzidos são redistribuídos e estão disponíveis sob uma [licença aberta](https://www.openstreetmap.org/copyright), permitindo que sejam reutilizados para qualquer fim, sem necessidade de autorização de uso. Na imagem abaixo, que mostra a [divisão de tarefas entre os voluntários](http://tasks.hotosm.org/project/1317), é possível ver a área que está sendo mapeada inicialmente:
 
-[![](/assets/images/Captura-de-tela-2015-11-12-09.48.50-1.png)](/assets/images/2015/11/Captura-de-tela-2015-11-12-09.48.50.png)
+[![](/assets/images/Captura-de-tela-2015-11-12-09.48.50-1.png)](/assets/images/Captura-de-tela-2015-11-12-09.48.50.png)
 
 O objetivo é que este novo mapa dê subsídios para comunidade local e organismos atuantes na região avaliem o impacto e trabalhem melhor para mitigação dos efeitos da tragédia. Qualquer pessoa pode participar. Para isso, basta ter acesso a um computador com internet e seguir as instruções na [página wiki da campanha de mapeamento](http://wiki.openstreetmap.org/wiki/Pt:2015_Mariana_Dam_Collapse).

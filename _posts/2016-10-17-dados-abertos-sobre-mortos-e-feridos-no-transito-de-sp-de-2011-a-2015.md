@@ -12,11 +12,11 @@ tags:
   - "transito"
 ---
 
-[![](/assets/images/data-transito-300x239.png)](/assets/images/2016/10/mortos-e-feridos-transito-2011-2015.rar)
+[![](/assets/images/data-transito-300x239.png)](/assets/images/mortos-e-feridos-transito-2011-2015.rar)
 
 Após conseguir com um pedido feito a partir da [Lei de Acesso à Informação](http://www.acessoainformacao.gov.br/assuntos/conheca-seu-direito/a-lei-de-acesso-a-informacao) ([nº 12.527/2011](http://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm "Lei de Acesso à Informação")) que os dados sobre [mortos e feridos no trânsito de São Paulo de 2014](/2016/03/01/lai-garante-acesso-a-dados-sobre-mortos-e-feridos-no-transito-de-sp/) fossem abertos, a equipe do Código Urbano trabalhou junto com mais gente que pesquisa mobilidade para uma nova solicitação e conseguiu acesso às informações sobre todas ocorrências também de 2011, 2012, 2013 e 2015. O pedido de informações foi feito de maneira conjunta e formalizado desta vez pelo amigo Rafael Calabria, e disponibilizadas pela Prefeitura de São Paulo em um arquivo único comprimido, que pode ser descompactado com qualquer programa gratuito do gênero.
 
-**\-> [mortos-e-feridos-transito-2011-2015](/assets/images/2020/01/ocorrencias-transito-pmsp-2011-2015.zip)**
+**\-> [mortos-e-feridos-transito-2011-2015](/assets/images/ocorrencias-transito-pmsp-2011-2015.zip)**
 
 Assim como [da última vez](/2016/03/01/lai-garante-acesso-a-dados-sobre-mortos-e-feridos-no-transito-de-sp/), em que organizamos visualizações e um artigo didático de como acesssar tais informações, temos intenção de futuramente trabalhar e analisar melhor com os dados recebidos\*. Considerando, porém, a importância do acesso fácil e rápido às informações até para formulação e continuidade de políticas públicas de defesa da vida para cidade, já disponibilizamos o arquivo e encorajamos outras organizações, pesquisadores e representantes de órgãos públicos que lidam com o tema a se apropriarem das informações\*\*.
 

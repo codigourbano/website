@@ -22,7 +22,7 @@ O arquivo "_Protocolo PR 12024.accdb_" está no formato proprietário [Microsof
 
 <figure>
 
-[![](/assets/images/mapa-ocorrencias-286x300-1.png)](/assets/images/2016/02/mapa-ocorrencias.png)
+[![mapa-ocorrencias](/assets/images/mapa-ocorrencias-286x300-1.png)](/assets/images/mapa-ocorrencias-286x300-1.png)
 
 <figcaption>
 
