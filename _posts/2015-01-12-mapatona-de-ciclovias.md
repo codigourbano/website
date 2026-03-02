@@ -2,7 +2,7 @@
 title: "Mapatona de Ciclovias"
 date: 2015-01-12
 layout: post
-published: false
+permalink: /mapatona-de-ciclovias/
 categories:
   - "mapas"
   - "mapatonas"
