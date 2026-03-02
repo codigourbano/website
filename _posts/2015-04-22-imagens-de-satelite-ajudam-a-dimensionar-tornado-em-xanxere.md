@@ -2,7 +2,7 @@
 title: "Imagens de satélite ajudam a dimensionar tornado em Xanxerê (SC)"
 date: 2015-04-22
 layout: post
-published: false
+permalink: /imagens-de-satelite-ajudam-a-dimensionar-tornado-em-xanxere/
 categories:
   - "satelites"
 tags: 
