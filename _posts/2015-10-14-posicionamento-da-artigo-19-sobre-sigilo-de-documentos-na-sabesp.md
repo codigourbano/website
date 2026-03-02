@@ -2,6 +2,7 @@
 title: "ARTIGO 19 questiona sigilo de documentos da Sabesp"
 date: 2015-10-14
 layout: post
+permalink: /posicionamento-da-artigo-19-sobre-sigilo-de-documentos-na-sabesp/
 categories: 
   - "bases-publicas"
 tags: 
@@ -28,7 +29,7 @@ A ARTIGO 19, organização que se pauta pela [defesa do direito à informação]
 
 <figcaption>
 
-_Imagem aérea captada na última sexta-feira, dia 9, demonstra o quanto a principal represa do Sistema Cantareira encolheu. Frente à seca de informações, o [monitoramento por satélites](/2015/08/04/imagens-de-satelite-mostram-gravidade-de-crise-hidrica-em-sp/) ajuda a avaliar a gravidade da situação. Imagem: [Landsat](http://landsatlook.usgs.gov/viewer.html)_
+_Imagem aérea captada na última sexta-feira, dia 9, demonstra o quanto a principal represa do Sistema Cantareira encolheu. Frente à seca de informações, o [monitoramento por satélites]({ % post_url 2015-08-04-imagens-de-satelite-mostram-gravidade-de-crise-hidrica-em-sp.md %}) ajuda a avaliar a gravidade da situação. Imagem: [Landsat](http://landsatlook.usgs.gov/viewer.html)_
 
 </figcaption>
 

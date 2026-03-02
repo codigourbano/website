@@ -2,7 +2,8 @@
 title: "Lista de discussão do Código Urbano"
 date: 2015-02-24
 layout: post
-categories: 
+published: false
+categories:
   - "projetos"
 tags: 
   - "google-groups"

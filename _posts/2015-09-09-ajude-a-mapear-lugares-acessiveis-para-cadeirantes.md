@@ -2,6 +2,7 @@
 title: "Ajude a mapear lugares acessíveis para cadeirantes"
 date: 2015-09-09
 layout: post
+permalink: /ajude-a-mapear-lugares-acessiveis-para-cadeirantes/
 categories: 
   - "mapas"
 tags: 
@@ -38,4 +39,4 @@ Na versão em outras línguas que não alemão ou inglês, o site trava de quand
 A legislação brasileira também prevê que informações sobre acessibilidade devem ser publicizadas, inclusive com a instalação do Símbolo Internacional de Acesso. Tal determinação está prevista na lei [7.405/1985](http://www.planalto.gov.br/ccivil_03/leis/1980-1988/L7405.htm). Sobre acessibilidade, vale consultar também a [página especial sobre o tema do Ministério Público Federal](http://www.turminha.mpf.mp.br/viva-a-diferenca/acessibilidade/o-que-e-acessibilidade-e-respeito-aos-deficientes-1), que por meio da [Procuradoria Federal dos Direitos do Cidadão](http://pfdc.pgr.mpf.mp.br/#&panel1-3&panel2-2&panel3-2), atua para que essas leis sejam cumpridas. Os procuradores têm o dever de fiscalizar o cumprimento das leis que garantem direitos iguais para todos e podem receber denúncias de irregularidades. Veja os [nomes e endereços dos procuradores dos Direitos do Cidadão](http://pfdc.pgr.mpf.mp.br/institucional/prdcs/contatos/) em todos os estados.
 
 **Mapeamento aberto e ativo**  
-_A frente de abertura de dados e desenvolvimento de tecnologias livres Código Urbano apoia, desde o seu lançamento, a construção e fortalecimento de mapas livres. A primeira atividade realizada por este projeto, em janeiro de 2015, foi uma [mapatona](/2015/01/12/mapatona-de-ciclovias/) para ajudar no mapeamento livre de infraestrutura cicloviária. Depois disso, publicamos guias sobre [como mapear infraestrutura cicloviária](/2015/06/12/como-mapear-infraestrutura-para-bicicletas/), e [como nomear ruas](/2015/06/19/como-nomear-ruas-no-openstreetmap-a-partir-de-mapas-do-ibge/) a partir de mapas do IBGE._
+_A frente de abertura de dados e desenvolvimento de tecnologias livres Código Urbano apoia, desde o seu lançamento, a construção e fortalecimento de mapas livres. A primeira atividade realizada por este projeto, em janeiro de 2015, foi uma [mapatona]({ % post_url 2015-01-12-mapatona-de-ciclovias.md %}) para ajudar no mapeamento livre de infraestrutura cicloviária. Depois disso, publicamos guias sobre [como mapear infraestrutura cicloviária]({ % post_url 2015-06-12-como-mapear-infraestrutura-para-bicicletas.md %}), e [como nomear ruas]({ % post_url 2015-06-19-como-nomear-ruas-no-openstreetmap-a-partir-de-mapas-do-ibge.md %}) a partir de mapas do IBGE._

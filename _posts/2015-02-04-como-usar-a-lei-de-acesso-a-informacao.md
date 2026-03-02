@@ -2,7 +2,8 @@
 title: "Como usar a Lei de Acesso à Informação"
 date: 2015-02-04
 layout: post
-categories: 
+published: false
+categories:
   - "bases-publicas"
 tags: 
   - "artigos"

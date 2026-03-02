@@ -2,7 +2,8 @@
 title: "Subprefeitura da Sé é a que tem maior orçamento para 2015"
 date: 2015-03-17
 layout: post
-categories: 
+published: false
+categories:
   - "orcamentos"
 tags: 
   - "capela-do-socorro"

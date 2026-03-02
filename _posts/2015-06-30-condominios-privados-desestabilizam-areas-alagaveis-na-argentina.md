@@ -2,7 +2,8 @@
 title: "Condomínios privados desestabilizam áreas alagáveis na Argentina"
 date: 2015-06-30
 layout: post
-categories: 
+published: false
+categories:
   - "artigos-analises"
   - "mapas"
 tags: 

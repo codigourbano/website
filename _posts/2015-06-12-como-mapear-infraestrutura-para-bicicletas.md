@@ -2,7 +2,8 @@
 title: "Como mapear infraestrutura para bicicletas?"
 date: 2015-06-12
 layout: post
-categories: 
+published: false
+categories:
   - "mapas"
 tags: 
   - "ciclorrotas"
@@ -30,6 +31,6 @@ Hoje, o principal desafio no mapeamento colaborativo é a falta de padrão e cui
 - Que as rotas para bicicletas estejam conectadas aos caminhos e vias próximas
 - Que detalhes suficientes sejam incluídos de modo a favorecer o planejamento de rotas
 
-O guia traz orientações e considerações sobre como melhorar estes três pontos. Em janeiro, o Código Urbano organizou uma [mapatona para incentivar o mapeamento de infraestrutura cicloviária de São Paulo](/2015/01/12/mapatona-de-ciclovias/) no OpenStreetMap. No mesmo mês, a Transporte Ativo divulgou um texto sobre o [mapeamento ativo de cidades](/2015/01/22/mapeamento-ativo-das-cidades/).
+O guia traz orientações e considerações sobre como melhorar estes três pontos. Em janeiro, o Código Urbano organizou uma [mapatona para incentivar o mapeamento de infraestrutura cicloviária de São Paulo]({ % post_url 2015-01-12-mapatona-de-ciclovias.md %}) no OpenStreetMap. No mesmo mês, a Transporte Ativo divulgou um texto sobre o [mapeamento ativo de cidades]({ % post_url 2015-01-22-mapeamento-ativo-das-cidades.md %}).
 
 **[Clique aqui para acessar o OpenStreetMap](http://openstreetmap.org)** e, com a ajuda do guia, começar a mapear as ciclovias que conhece.

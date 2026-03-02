@@ -2,6 +2,7 @@
 title: "O desafio dos dados abertos para monitorar a qualidade do ar em SP"
 date: 2016-04-13
 layout: post
+permalink: /o-desafio-dos-dados-abertos-para-monitorar-a-qualidade-do-ar-em-sp/
 categories: 
   - "mapas"
   - "sensores"
@@ -62,4 +63,4 @@ Apesar do grande interesse por parte do público, os desafios de lidar com essa 
 Em 2016, o Código Urbano segue sua parceria com a Earth Journalism Network para aumentar a quantidade dos sensores DustDuinos instalados em São Paulo, bem como melhorar a precisão e qualidade dos dados sobre poluição do ar coletados.  
 **  
 Leia também**  
-[Primeiro sensor independente para monitorar poluição é instalado em SP](/2015/03/26/primeiro-sensor-independente-para-monitorar-poluicao-e-instalado-em-sp/)
+[Primeiro sensor independente para monitorar poluição é instalado em SP]({ % post_url 2015-03-26-primeiro-sensor-independente-para-monitorar-poluicao-e-instalado-em-sp.md %})

@@ -2,7 +2,8 @@
 title: "Sensor livre pretende medir poluição do ar em regiões críticas"
 date: 2015-07-17
 layout: post
-categories: 
+published: false
+categories:
   - "artigos-analises"
   - "sensores"
 tags: 

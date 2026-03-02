@@ -2,7 +2,8 @@
 title: "O mapa de ciclovias da Prefeitura de São Paulo"
 date: 2015-01-15
 layout: post
-categories: 
+published: false
+categories:
   - "mapas"
 tags: 
   - "googlemaps"
@@ -13,7 +14,7 @@ tags:
 
 **Por Daniel Santini**
 
-Neste domingo, dia 18, acontece a primeira [Mapatona de Ciclovias de São Paulo](/2015/01/12/mapatona-de-ciclovias/). A iniciativa, organizada pelo Código Urbano, tem como objetivo melhorar o mapa colaborativo das ciclovias da cidade no [OpenStreetMap](https://www.openstreetmap.org/), plataforma cuja essência são os [dados abertos](https://www.openstreetmap.org/copyright). Atualmente a prefeitura de São Paulo disponibiliza o mapa oficial no [Google Maps](https://www.google.com/maps/d/u/0/viewer?dg=feature&ll=-23.577833,-46.604691&t=m&source=embed&ie=UTF8&msa=0&spn=0.302075,0.439453&z=11&mid=z9TqTcegPvdk.kD1kEBduCkvI), que é uma plataforma fechada.
+Neste domingo, dia 18, acontece a primeira [Mapatona de Ciclovias de São Paulo]({ % post_url 2015-01-12-mapatona-de-ciclovias.md %}). A iniciativa, organizada pelo Código Urbano, tem como objetivo melhorar o mapa colaborativo das ciclovias da cidade no [OpenStreetMap](https://www.openstreetmap.org/), plataforma cuja essência são os [dados abertos](https://www.openstreetmap.org/copyright). Atualmente a prefeitura de São Paulo disponibiliza o mapa oficial no [Google Maps](https://www.google.com/maps/d/u/0/viewer?dg=feature&ll=-23.577833,-46.604691&t=m&source=embed&ie=UTF8&msa=0&spn=0.302075,0.439453&z=11&mid=z9TqTcegPvdk.kD1kEBduCkvI), que é uma plataforma fechada.
 
 <iframe src="https://www.google.com/maps/d/embed?mid=z9TqTcegPvdk.kD1kEBduCkvI" width="640" height="480"></iframe>
 

@@ -2,6 +2,7 @@
 title: "Mapa possibilita visualização de terrenos subaproveitados em SP"
 date: 2016-02-25
 layout: post
+permalink: /nao-acabou-o-espaco-para-construir-em-sao-paulo/
 categories: 
   - "bases-publicas"
   - "mapas"

@@ -2,6 +2,7 @@
 title: "Baixe informações de locais isentos de rodízio pela SABESP em formato aberto"
 date: 2015-10-16
 layout: post
+permalink: /baixe-em-formato-aberto-informacoes-de-locais-isentos-de-rodizio-pela-sabesp/
 categories: 
   - "bases-publicas"
 tags: 

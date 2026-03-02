@@ -2,6 +2,7 @@
 title: "Em defesa do software livre"
 date: 2016-01-05
 layout: post
+permalink: /em-defesa-do-software-livre/
 categories: 
   - "artigos-analises"
 tags: 

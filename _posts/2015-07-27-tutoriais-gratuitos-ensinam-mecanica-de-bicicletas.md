@@ -2,6 +2,7 @@
 title: "Tutoriais gratuitos ensinam mecânica de bicicletas"
 date: 2015-07-27
 layout: post
+permalink: /tutoriais-gratuitos-ensinam-mecanica-de-bicicletas/
 categories: 
   - "mecanica-hardware"
 tags: 
