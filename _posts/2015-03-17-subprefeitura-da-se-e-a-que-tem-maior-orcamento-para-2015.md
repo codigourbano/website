@@ -2,7 +2,7 @@
 title: "Subprefeitura da Sé é a que tem maior orçamento para 2015"
 date: 2015-03-17
 layout: post
-published: false
+permalink: /subprefeitura-da-se-e-a-que-tem-maior-orcamento-para-2015/
 categories:
   - "orcamentos"
 tags: 
