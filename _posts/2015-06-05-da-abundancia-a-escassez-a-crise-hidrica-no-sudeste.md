@@ -2,7 +2,7 @@
 title: "Da abundância à escassez: a crise hídrica no Sudeste"
 date: 2015-06-05
 layout: post
-published: false
+permalink: /da-abundancia-a-escassez-a-crise-hidrica-no-sudeste/
 categories:
   - "artigos-analises"
 tags:
