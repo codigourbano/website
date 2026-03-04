@@ -27,6 +27,6 @@ O evento é gratuito e aberto e foi organizado pela Código Urbano, uma frente d
 
  
 
-:. Para se inscrever, envie seu nome completo e RG [por este formulário](https://docs.google.com/forms/d/154vYhMsJAXrqhLnOYQzGW1fBYmS04ZyU8KV8abL7Dqo/viewform?usp=send_form​).
+_[Nota histórica: O formulário de inscrição deste evento já não está ativo. O projeto foi descontinuado em 2019.]_
 
 **Primeira Mapatona das Ciclovias** Data: 18/01/2015, domingo Horário: 10h às 14h Local: Laboratório de Mobilidade Urbana (Mobilab) Endereço: Rua Boa Vista, 136, Mezanino, Centro, São Paulo, SP
