@@ -2,7 +2,7 @@
 title: "Imagens de satélite mostram rastro de lama e destruição em Mariana (MG)"
 date: 2015-11-12
 layout: post
-published: false
+permalink: /imagens-de-satelite-mostram-rastro-de-lama-e-destruicao-em-mariana-mg/
 categories:
   - "mapas"
   - "satelites"
