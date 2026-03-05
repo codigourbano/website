@@ -43,7 +43,7 @@ Além de reunir e divulgar os dados em formato amigável para quem tiver interes
 
 O sensor é o primeiro de uma leva inicial de 35 que serão espalhados em diferentes regiões da cidade, sempre em pontos com alta circulação de pessoas. A produção das unidades do DustDuino é feita em parceria com a [Earth Journalism Network](http://earthjournalism.net/about) e a rede piloto de monitoramento e distribuição está sendo criada em um consórcio formato pelas organizações [Frontline SMS](http://www.frontlinesms.com/), [GroundTruth](http://groundtruth.in/) e [Development Seed](https://developmentseed.org/).
 
-Os dados coletados por todos os equipamentos serão disponibilizados, permitindo a comparação de níveis de poluição em diferentes áreas, bem como avaliar a evolução e gravidade da concentração de poluentes durante cada época do ano. Pessoas ou organizações que queiram participar da rede de monitoramento Dustduino podem enviar informações pelo formulário abaixo. Esperamos realizar em maio, na cidade de São Paulo, uma oficina para a montagem e distribuição das 35 unidades.
+Os dados coletados por todos os equipamentos serão disponibilizados, permitindo a comparação de níveis de poluição em diferentes áreas, bem como avaliar a evolução e gravidade da concentração de poluentes durante cada época do ano. Esperamos realizar em maio, na cidade de São Paulo, uma oficina para a montagem e distribuição das 35 unidades.
 
 _Veja no vídeo abaixo como foi a instalação e como funciona o primeiro sensor da rede desenvolvida pelo Código Urbano_
 
@@ -53,4 +53,4 @@ Hoje o único sistema de monitoramento existente é o da Companhia Ambiental do 
 
 A necessidade de revisão dos padrões adotados hoje no Brasil e as deficiências das redes de monitoramento já foram temas de diferentes estudos do [Instituto de Energia e Meio Ambiente](http://www.energiaeambiente.org.br/) (IEMA). Para o monitoramento adotado pelos sensores independentes que serão espalhados pela cidade, utilizaremos os padrões mais recentes estabelecidos pela OMS, que podem ser consultados [nesta publicação do IEMA](http://www.energiaeambiente.org.br/index.php/bibliotecas/exibir/44?arq=IEMA_REL_PADROES.pdf).
 
-<iframe src="https://docs.google.com/forms/d/1YIh4nYBoAIgtD2uYcOWcDSePq0llJQY1dbd0Bi1SYBE/viewform?embedded=true" width="700" height="1150" frameborder="0" marginwidth="0" marginheight="0">Iniciando...</iframe>
+_[Nota histórica: O formulário de participação da rede DustDuino já não está ativo. O projeto foi descontinuado em 2019.]_
