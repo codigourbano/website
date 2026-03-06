@@ -16,7 +16,7 @@ tags:
 coverImage: "latam-sp.jpg"
 ---
 
-São Paulo abrigará de 25 a 27 de novembro o State of the Map Latam, encontro anual de mapeadores e usuários do [OpenStreetMap](https://www.openstreetmap.org/) em toda a América Latina. Organizado pela própria comunidade que produz e atualiza o mapa mundial aberto e livre, o evento será um espaço para debates sobre dados abertos, georeferenciamento de informações, uso de novas tecnologias e aplicativos e construção de bens públicos digitais. A programação ainda não está definida, mas no [site do evento](http://state.osmlatam.org/pt/) já é possível se inscrever e garantir uma vaga (as atividades são todas abertas e gratuitas, mas há limitação do número de inscritos.
+São Paulo abrigará de 25 a 27 de novembro o State of the Map Latam, encontro anual de mapeadores e usuários do [OpenStreetMap](https://www.openstreetmap.org/) em toda a América Latina. Organizado pela própria comunidade que produz e atualiza o mapa mundial aberto e livre, o evento será um espaço para debates sobre dados abertos, georeferenciamento de informações, uso de novas tecnologias e aplicativos e construção de bens públicos digitais. A programação ainda não está definida, e as atividades são abertas e gratuitas.
 
 Trata-se da segunda edição do encontro. A primeira aconteceu em setembro de 2015 no Chile. As atividades, que incluem workshops sobre mapeamento, palestras e painéis, além de mapatonas, acontecem em dois locais distintos na região central de São Paulo. Nos dias 25 e 26, serão na [Biblioteca Mário de Andrade](https://www.openstreetmap.org/way/48661210), e, no dia 27, no [Mobilab](https://www.openstreetmap.org/node/4318465018), laboratório de mobilidade urbana mantido pela Prefeitura de São Paulo.
 
