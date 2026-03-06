@@ -29,7 +29,7 @@ A ARTIGO 19, organização que se pauta pela [defesa do direito à informação]
 
 <figcaption>
 
-_Imagem aérea captada na última sexta-feira, dia 9, demonstra o quanto a principal represa do Sistema Cantareira encolheu. Frente à seca de informações, o [monitoramento por satélites]({ % post_url 2015-08-04-imagens-de-satelite-mostram-gravidade-de-crise-hidrica-em-sp.md %}) ajuda a avaliar a gravidade da situação. Imagem: [Landsat](http://landsatlook.usgs.gov/viewer.html)_
+_Imagem aérea captada na última sexta-feira, dia 9, demonstra o quanto a principal represa do Sistema Cantareira encolheu. Frente à seca de informações, o [monitoramento por satélites]({% post_url 2015-08-04-imagens-de-satelite-mostram-gravidade-de-crise-hidrica-em-sp %}) ajuda a avaliar a gravidade da situação. Imagem: [Landsat](http://landsatlook.usgs.gov/viewer.html)_
 
 </figcaption>
 
