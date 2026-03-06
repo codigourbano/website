@@ -51,4 +51,4 @@ A evolução no monitoramento de fenômenos climáticos pode ajudar a prever e m
 
  
 
-**\* Atualização**  Em função do desastre, a comunidade do OpenStreetMap organizou uma força-tarefa para tentar melhorar o mapa da de Xanxerê (SC), o que pode ser útil para identificar os danos e ajudar os atingidos. Participe:[http://tasks.hotosm.org/project/990](http://tasks.hotosm.org/project/990)
+**\* Atualização**  Em função do desastre, a comunidade do OpenStreetMap organizou uma força-tarefa para tentar melhorar o mapa da de Xanxerê (SC), o que pode ser útil para identificar os danos e ajudar os atingidos.
