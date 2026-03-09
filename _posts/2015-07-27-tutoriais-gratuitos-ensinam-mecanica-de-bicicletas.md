@@ -23,7 +23,9 @@ O projeto foi lançado no último Dia Internacional da Mulher, 8 de março, po
 
 <figure>
 
-[![](/assets/images/chave151.png)](/assets/images/chave151.png)
+<a href="/assets/images/chave151.png">
+  <img src="/assets/images/chave151.png" alt="Imagem do projeto Chave Quinze" />
+</a>
 
 <figcaption>
 
@@ -40,7 +42,9 @@ A inspiração veio com as oficinas de mecânica que as [Pedalinas](https://peda
 
 <figure>
 
-[![](/assets/images/dedo.png)](/assets/images/dedo.png)
+<a href="/assets/images/dedo.png">
+  <img src="/assets/images/dedo.png" alt="Imagem do projeto Chave Quinze" />
+</a>
 
 <figcaption>
 

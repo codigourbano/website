@@ -37,7 +37,7 @@ De autoria dos deputados estaduais Barros Munhoz (PSDB), Campos Machado (PTB), 
 
 <figure>
 
-![](/assets/images/05082015-deps-sao-paulo.jpg)
+<img src="/assets/images/05082015-deps-sao-paulo.jpg" alt="Deputados autores da Lei do Desmatamento" />
 
 <figcaption>
 

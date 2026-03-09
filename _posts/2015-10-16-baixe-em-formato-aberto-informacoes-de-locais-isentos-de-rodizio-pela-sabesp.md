@@ -20,7 +20,9 @@ Após importar um PDF ao programa, é possível marcar as áreas onde estão pos
 
 <figure>
 
-[![](/assets/images/Captura-de-tela-2015-10-16-15.29.14-1024x637.png)](/assets/images/Captura-de-tela-2015-10-16-15.29.14.png)
+<a href="/assets/images/Captura-de-tela-2015-10-16-15.29.14.png">
+  <img src="/assets/images/Captura-de-tela-2015-10-16-15.29.14-1024x637.png" alt="Seleção de tabelas no Tabula" />
+</a>
 
 <figcaption>
 

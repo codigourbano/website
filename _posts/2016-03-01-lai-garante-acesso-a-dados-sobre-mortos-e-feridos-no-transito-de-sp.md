@@ -23,7 +23,9 @@ O arquivo "_Protocolo PR 12024.accdb_" está no formato proprietário [Microsof
 
 <figure>
 
-[![mapa-ocorrencias](/assets/images/mapa-ocorrencias-286x300-1.png)](/assets/images/mapa-ocorrencias-286x300-1.png)
+<a href="/assets/images/mapa-ocorrencias-286x300-1.png">
+  <img src="/assets/images/mapa-ocorrencias-286x300-1.png" alt="Mapa de ocorrências de trânsito em SP em 2014" />
+</a>
 
 <figcaption>
 

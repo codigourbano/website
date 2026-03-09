@@ -25,7 +25,9 @@ A ARTIGO 19, organização que se pauta pela [defesa do direito à informação]
 
 <figure>
 
-[![](/assets/images/cantareira-landsat8.png)](/assets/images/cantareira-landsat8.png)
+<a href="/assets/images/cantareira-landsat8.png">
+  <img src="/assets/images/cantareira-landsat8.png" alt="Imagem aérea do Sistema Cantareira" />
+</a>
 
 <figcaption>
 

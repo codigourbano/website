@@ -36,7 +36,7 @@ Nos 18 meses seguintes, os parceiros projetaram e fabricaram um protótipo do Du
 
 <figure>
 
-![Poster sobre os efeitos da poluição do ar sobre a saúde e o funcionamento do DustDuino. Por Luiza Peixe/Código Urbano](/assets/images/poster_a3v2-212x300.png)
+<img src="/assets/images/poster_a3v2-212x300.png" alt="Poster sobre os efeitos da poluição do ar sobre a saúde e o funcionamento do DustDuino" />
 
 <figcaption>
 
