@@ -62,9 +62,57 @@ Estamos, assim como muitas outras mulheres por todo o Brasil, tentando construir
 
 Na página do projeto, já são dez [tutoriais detalhados com textos](http://chavequinze.com/category/tutoriais/), cujos vídeos reproduzimos abaixo:
 
-|   <iframe src="https://www.youtube.com/embed/eJQai0PQfm0?rel=0&amp;controls=0&amp;showinfo=0" allowfullscreen="allowfullscreen" width="300" height="169" frameborder="0"><br /></iframe>  [tipos de bicos de câmara de ar](http://chavequinze.com/2015/07/14/tipos-de-bico-de-camara/) |   <iframe src="https://www.youtube.com/embed/OmuRfMhM3Es?rel=0&amp;controls=0&amp;showinfo=0" allowfullscreen="allowfullscreen" width="300" height="169" frameborder="0"></iframe>  [como limpar e lubrificar cabos](http://chavequinze.com/2015/06/29/como-limpar-e-lubrificar-cabos-cuidados-com-maresia/) |
-| --- | --- |
-|   <iframe src="https://www.youtube.com/embed/uCOxUQ8a1Y8?rel=0&amp;controls=0&amp;showinfo=0" allowfullscreen="allowfullscreen" width="300" height="169" frameborder="0"></iframe>  [como remendar corrente](http://chavequinze.com/2015/06/18/como-remendar-corrente/) |   <iframe src="https://www.youtube.com/embed/piURLmW2eNg?rel=0&amp;controls=0&amp;showinfo=0" allowfullscreen="allowfullscreen" width="300" height="169" frameborder="0"></iframe>  [como ajustar freio v-brake (parte 3)](http://chavequinze.com/2015/06/01/como-ajustar-freio-v-brake-parte-3/) |
-|   <iframe src="https://www.youtube.com/embed/DigAHtpdTSw?rel=0&amp;controls=0&amp;showinfo=0" allowfullscreen="allowfullscreen" width="300" height="169" frameborder="0"></iframe>  [como ajustar freio v-brake (parte 2)](http://chavequinze.com/2015/05/18/como-ajustar-freio-v-brake-parte-2/) |   <iframe src="https://www.youtube.com/embed/wBOqfQnRVcE?rel=0&amp;controls=0&amp;showinfo=0" allowfullscreen="allowfullscreen" width="300" height="169" frameborder="0"></iframe>  [como ajustar freio v-brake (parte 1)](http://chavequinze.com/2015/05/04/como-ajustar-freio-v-brake-parte-1/) |
-|   <iframe src="https://www.youtube.com/embed/JqbPnwGYi-8?rel=0&amp;controls=0&amp;showinfo=0" allowfullscreen="allowfullscreen" width="300" height="169" frameborder="0"></iframe>  [como colocar roda traseira de fixa](http://chavequinze.com/2015/04/20/como-colocar-roda-traseira-de-bike-fixa-e-tensionar-corrente/) |   <iframe src="https://www.youtube.com/embed/Jjv2ck2PCNM?rel=0&amp;controls=0&amp;showinfo=0" allowfullscreen="allowfullscreen" width="300" height="169" frameborder="0"></iframe>  [como lubrificar a corrente](http://chavequinze.com/2015/04/01/como-lubrificar-corrente/) |
-|   <iframe src="https://www.youtube.com/embed/4y7j06NeEEo?rel=0&amp;controls=0&amp;showinfo=0" allowfullscreen="allowfullscreen" width="300" height="169" frameborder="0"></iframe>  [como remendar câmara](http://chavequinze.com/2015/03/23/como-remendar-camarafurada/) |   <iframe src="https://www.youtube.com/embed/L19SYOKwCq8?rel=0&amp;controls=0&amp;showinfo=0" allowfullscreen="allowfullscreen" width="300" height="169" frameborder="0"></iframe>  [como trocar câmara da roda traseira](http://chavequinze.com/2015/03/08/como-tirar-e-colocar-roda-traseira-de-bicicleta-e-trocar-camara-de-ar-furada/) |
+<table class="chave-quinze-videos">
+  <tbody>
+    <tr>
+      <td>
+        <iframe src="https://www.youtube.com/embed/eJQai0PQfm0" title="Chave Quinze: tipos de bicos de câmara de ar" width="300" height="169" allowfullscreen loading="lazy"></iframe>
+        <p><a href="http://chavequinze.com/2015/07/14/tipos-de-bico-de-camara/">tipos de bicos de câmara de ar</a></p>
+      </td>
+      <td>
+        <iframe src="https://www.youtube.com/embed/OmuRfMhM3Es" title="Chave Quinze: limpar e lubrificar cabos" width="300" height="169" allowfullscreen loading="lazy"></iframe>
+        <p><a href="http://chavequinze.com/2015/06/29/como-limpar-e-lubrificar-cabos-cuidados-com-maresia/">como limpar e lubrificar cabos</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <iframe src="https://www.youtube.com/embed/uCOxUQ8a1Y8" title="Chave Quinze: remendar corrente" width="300" height="169" allowfullscreen loading="lazy"></iframe>
+        <p><a href="http://chavequinze.com/2015/06/18/como-remendar-corrente/">como remendar corrente</a></p>
+      </td>
+      <td>
+        <iframe src="https://www.youtube.com/embed/piURLmW2eNg" title="Chave Quinze: ajustar freio v-brake (parte 3)" width="300" height="169" allowfullscreen loading="lazy"></iframe>
+        <p><a href="http://chavequinze.com/2015/06/01/como-ajustar-freio-v-brake-parte-3/">como ajustar freio v-brake (parte 3)</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <iframe src="https://www.youtube.com/embed/DigAHtpdTSw" title="Chave Quinze: ajustar freio v-brake (parte 2)" width="300" height="169" allowfullscreen loading="lazy"></iframe>
+        <p><a href="http://chavequinze.com/2015/05/18/como-ajustar-freio-v-brake-parte-2/">como ajustar freio v-brake (parte 2)</a></p>
+      </td>
+      <td>
+        <iframe src="https://www.youtube.com/embed/wBOqfQnRVcE" title="Chave Quinze: ajustar freio v-brake (parte 1)" width="300" height="169" allowfullscreen loading="lazy"></iframe>
+        <p><a href="http://chavequinze.com/2015/05/04/como-ajustar-freio-v-brake-parte-1/">como ajustar freio v-brake (parte 1)</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <iframe src="https://www.youtube.com/embed/JqbPnwGYi-8" title="Chave Quinze: roda traseira de bike fixa" width="300" height="169" allowfullscreen loading="lazy"></iframe>
+        <p><a href="http://chavequinze.com/2015/04/20/como-colocar-roda-traseira-de-bike-fixa-e-tensionar-corrente/">como colocar roda traseira de fixa</a></p>
+      </td>
+      <td>
+        <iframe src="https://www.youtube.com/embed/Jjv2ck2PCNM" title="Chave Quinze: lubrificar a corrente" width="300" height="169" allowfullscreen loading="lazy"></iframe>
+        <p><a href="http://chavequinze.com/2015/04/01/como-lubrificar-corrente/">como lubrificar a corrente</a></p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <iframe src="https://www.youtube.com/embed/4y7j06NeEEo" title="Chave Quinze: remendar câmara" width="300" height="169" allowfullscreen loading="lazy"></iframe>
+        <p><a href="http://chavequinze.com/2015/03/23/como-remendar-camarafurada/">como remendar câmara</a></p>
+      </td>
+      <td>
+        <iframe src="https://www.youtube.com/embed/L19SYOKwCq8" title="Chave Quinze: trocar câmara da roda traseira" width="300" height="169" allowfullscreen loading="lazy"></iframe>
+        <p><a href="http://chavequinze.com/2015/03/08/como-tirar-e-colocar-roda-traseira-de-bicicleta-e-trocar-camara-de-ar-furada/">como trocar câmara da roda traseira</a></p>
+      </td>
+    </tr>
+  </tbody>
+</table>
