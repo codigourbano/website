@@ -21,4 +21,27 @@ layout: default
   <div class="post-content">
     {{ content }}
   </div>
+
+  {% if page.previous or page.next %}
+  <nav class="post-nav" aria-label="Navegação entre posts">
+    <div class="post-nav-inner">
+      <div class="post-nav-prev">
+        {% if page.previous %}
+        <a class="post-nav-link" href="{{ page.previous.url | relative_url }}" title="Post anterior: {{ page.previous.title | escape }}">
+          <span class="post-nav-label">Anterior</span>
+          <span class="post-nav-title">{{ page.previous.title }}</span>
+        </a>
+        {% endif %}
+      </div>
+      <div class="post-nav-next">
+        {% if page.next %}
+        <a class="post-nav-link" href="{{ page.next.url | relative_url }}" title="Próximo post: {{ page.next.title | escape }}">
+          <span class="post-nav-label">Próximo</span>
+          <span class="post-nav-title">{{ page.next.title }}</span>
+        </a>
+        {% endif %}
+      </div>
+    </div>
+  </nav>
+  {% endif %}
 </article>
