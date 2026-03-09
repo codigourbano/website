@@ -1,12 +1,13 @@
 ---
-title: "Ajude a mapear lugares acessíveis para cadeirantes"
+title: "Ajude a mapear lugares acessíveis para quem usa cadeira de rodas"
 date: 2015-09-09
 layout: post
 permalink: /ajude-a-mapear-lugares-acessiveis-para-cadeirantes/
 categories: 
   - "mapas"
 tags: 
-  - "cadeirantes"
+  - "acessibilidade"
+  - "cadeira-de-rodas"
   - "calculo-de-rotas"
   - "mapas"
   - "mapas-abertos"
@@ -15,7 +16,12 @@ tags:
 coverImage: "cadeirantes-berlin.png"
 ---
 
-É fácil, simples e rápido mapear os lugares acessíveis para cadeirantes do seu bairro. Graças a um aplicativo baseado no [OpenStreetMap](https://www.openstreetmap.org/) (OSM), mapa mundi aberto e colaborativo, dá para indicar quais lugares são completamente (verde), parcialmente (amarelo) ou não acessíveis (vermelho) para quem está em uma cadeira de rodas. Basta acessar o [Wheelmap.org](https://wheelmap.org/pt_BR/map#/?lat=-23.5560531&lon=-46.6916525&zoom=18) e clicar nos botões cinzas que representam os estabelecimentos ainda não classificados, escolhendo as cores mais adequadas para indicar a acessibilidade do local para cadeirantes. Dá para fazer isso pelo celular (versões para [Android](https://play.google.com/store/apps/details?id=org.wheelmap.android.online) e [iOS](https://apps.apple.com/br/app/wheelmap/id399239476); o aplicativo para Windows Phone foi descontinuado).
+<aside class="editors-note" role="note">
+<p class="editors-note-kicker">Nota do arquivo</p>
+<p>Em 2026 revisamos a linguagem sobre deficiência e mobilidade (por exemplo, substituindo <em>cadeirantes</em> por formulações como <em>pessoas que usam cadeira de rodas</em> e evitando <em>portadoras de necessidades especiais</em>). O texto original era de 2015; o endereço (permalink) do post permanece o mesmo para não quebrar links antigos.</p>
+</aside>
+
+É fácil, simples e rápido mapear no seu bairro os lugares acessíveis para **pessoas que usam cadeira de rodas**. Graças a um aplicativo baseado no [OpenStreetMap](https://www.openstreetmap.org/) (OSM), mapa mundi aberto e colaborativo, dá para indicar quais lugares são completamente (verde), parcialmente (amarelo) ou não acessíveis (vermelho) para quem utiliza cadeira de rodas. Basta acessar o [Wheelmap.org](https://wheelmap.org/pt_BR/map#/?lat=-23.5560531&lon=-46.6916525&zoom=18) e clicar nos botões cinzas que representam os estabelecimentos ainda não classificados, escolhendo as cores mais adequadas para indicar a acessibilidade do local. Dá para fazer isso pelo celular (versões para [Android](https://play.google.com/store/apps/details?id=org.wheelmap.android.online) e [iOS](https://apps.apple.com/br/app/wheelmap/id399239476); o aplicativo para Windows Phone foi descontinuado).
 
 O aplicativo foi criado em 2010 na Alemanha e até setembro de 2015 já havia ajudado a catalogar mais de 510 mil estabelecimentos. No país, existem cidades com um mapeamento muito bom, com mapas realmente úteis para quem utiliza uma cadeira de rodas para se deslocar. É o caso de Berlim:
 
@@ -35,7 +41,7 @@ Na versão em outras línguas que não alemão ou inglês, o site trava de quand
 
 **Direitos iguais e a lei**
 
-A Constituição Federal determina que todas as pessoas, portadoras de necessidades especiais ou não, têm direitos iguais. Tal preceito foi reforçado pelo [Decreto nº 5.296/2004](http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/decreto/d5296.htm), e pelas leis [10.048/2000](http://www.planalto.gov.br/ccivil_03/leis/L10048.htm) e [10.098/2000](http://www.planalto.gov.br/ccivil_03/leis/L10098.htm), que regulam e estabelecem critérios para o atendimento, mobilidade e acesso. Se você tem um comércio, deve torná-lo acessível para todas as pessoas, incluindo cadeirantes.
+A Constituição Federal determina que todas as pessoas, **com ou sem deficiência**, têm direitos iguais. Tal preceito foi reforçado pelo [Decreto nº 5.296/2004](http://www.planalto.gov.br/ccivil_03/_ato2004-2006/2004/decreto/d5296.htm), e pelas leis [10.048/2000](http://www.planalto.gov.br/ccivil_03/leis/L10048.htm) e [10.098/2000](http://www.planalto.gov.br/ccivil_03/leis/L10098.htm), que regulam e estabelecem critérios para o atendimento, mobilidade e acesso. Se você tem um comércio, deve torná-lo acessível para todas as pessoas, **incluindo quem usa cadeira de rodas**.
 
 A legislação brasileira também prevê que informações sobre acessibilidade devem ser publicizadas, inclusive com a instalação do Símbolo Internacional de Acesso. Tal determinação está prevista na lei [7.405/1985](http://www.planalto.gov.br/ccivil_03/leis/1980-1988/L7405.htm). Sobre acessibilidade, vale consultar também a [página especial sobre o tema do Ministério Público Federal](http://www.turminha.mpf.mp.br/viva-a-diferenca/acessibilidade/o-que-e-acessibilidade-e-respeito-aos-deficientes-1), que por meio da [Procuradoria Federal dos Direitos do Cidadão](http://pfdc.pgr.mpf.mp.br/#&panel1-3&panel2-2&panel3-2), atua para que essas leis sejam cumpridas. Os procuradores têm o dever de fiscalizar o cumprimento das leis que garantem direitos iguais para todos e podem receber denúncias de irregularidades. Veja os [nomes e endereços dos procuradores dos Direitos do Cidadão](http://pfdc.pgr.mpf.mp.br/institucional/prdcs/contatos/) em todos os estados.
 

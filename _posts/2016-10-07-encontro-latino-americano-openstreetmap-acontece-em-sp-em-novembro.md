@@ -27,4 +27,4 @@ O OpenStreetMap é um mapa colaborativo aberto criado e mantido por diferentes c
 [Mapeamento ativo das cidades]({% post_url 2015-01-22-mapeamento-ativo-das-cidades %})  
 [Como mapear infraestrutura para bicicletas?]({% post_url 2015-06-12-como-mapear-infraestrutura-para-bicicletas %})  
 [Como nomear ruas no OpenStreetMap a partir de mapas do IBGE]({% post_url 2015-06-19-como-nomear-ruas-no-openstreetmap-a-partir-de-mapas-do-ibge %})  
-[Ajude a mapear lugares acessíveis para cadeirantes]({% post_url 2015-09-09-ajude-a-mapear-lugares-acessiveis-para-cadeirantes %})
+[Ajude a mapear lugares acessíveis para quem usa cadeira de rodas]({% post_url 2015-09-09-ajude-a-mapear-lugares-acessiveis-para-cadeirantes %})
