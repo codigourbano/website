@@ -31,10 +31,6 @@ A proposta de se permitir construções em áreas verdes públicas provocou crí
 
 Com o intuito de contribuir com a discussão o Código Urbano mapeou terrenos ainda não ocupados na cidade, muitos dos quais em áreas periféricas. O levantamento foi feito a partir de informações do [Geosampa](http://geosampa.prefeitura.sp.gov.br/PaginasPublicas/_SBC.aspx#), o sistema de informações georeferenciadas da Prefeitura de São Paulo, que trabalha com informações da base do IPTU da cidade. A partir da raspagem automática desses dados feitas por um robô, foi possível identificar a existência de pelo menos 4 milhões de metros quadrados de terrenos livres que poderiam ser utilizados para construção, sem contar edificações sem uso.
 
-O mapa abaixo mostra terrenos com mais de 10 mil metros quadrados na cidade, de acordo com a base da Prefeitura. Clique nos terrenos para ver detalhes:
-
-<iframe src="https://tiagofassoni.cartodb.com/viz/59eaf59c-db98-11e5-893e-0e787de82d45/embed_map" allowfullscreen="allowfullscreen" width="100%" height="520" frameborder="0"></iframe>
-
 **Terrenos privados**  
 As informações indicam que há muitos terrenos vazios subaproveitados em áreas carentes de equipamentos públicos. O problema é que, para que eles sejam ocupados por escolas, creches, postos de saúde e estruturas similares, teriam que ser desapropriados, já que a maioria encontra-se nas mãos de grupos privados. Agrupando os dados por proprietários, observamos a participação de incorporadoras, empresas e também pessoas físicas, incluindo aí:
 
@@ -52,14 +48,15 @@ As informações indicam que há muitos terrenos vazios subaproveitados em áre
 
 Uma prévia de dados de imóveis com área acima de 10.000 metros quadrados identificados neste levantamento inicial encontra-se disponível para baixar [aqui](https://github.com/tiagofassoni/terrenos_grandes_sao_paulo). Além de mapear espaços que poderiam ser ocupados, o trabalho também permitiu identificar falhas no cadastro de IPTU da cidade. O georeferenciamento das informações permite visualizar que há imóveis que, apesar de estarem cadastrados como terrenos livres, estão ocupados por edificações.
 
-**Baixe os dados  
-**É possível verificar cada ponto identificado no mapa diretamente no [sistema GeoSampa](http://geosampa.prefeitura.sp.gov.br/PaginasPublicas/_SBC.aspx), no site da Prefeitura de São Paulo. Disponibilizamos, além da visualização, um repositório com os dados brutos ([aqui](https://github.com/tiagofassoni/terrenos_grandes_sao_paulo/blob/master/iptu_mais_de_10_mil_metros_quadrados.geojson)), onde é possível pesquisar qual o setor, quadra e lote de cada terreno. Com essas informações, dá para confirmar cada dado diretamente no site do Geosampa - é só clicar na lupa do lado esquerdo, selecionar a aba de IPTU e digitar os valores.
+**Baixe os dados**
+
+É possível verificar cada ponto identificado no mapa diretamente no [sistema GeoSampa](http://geosampa.prefeitura.sp.gov.br/PaginasPublicas/_SBC.aspx), no site da Prefeitura de São Paulo. Disponibilizamos, além da visualização, um repositório com os dados brutos ([aqui](https://github.com/tiagofassoni/terrenos_grandes_sao_paulo/blob/master/iptu_mais_de_10_mil_metros_quadrados.geojson)), onde é possível pesquisar qual o setor, quadra e lote de cada terreno. Com essas informações, dá para confirmar cada dado diretamente no site do Geosampa - é só clicar na lupa do lado esquerdo, selecionar a aba de IPTU e digitar os valores.
 
 O resultado é apresentado no seguinte formato:
 
 <figure>
 
-![](/assets/images/Captura-de-Tela-2016-02-25-a-s-07.42.12-1024x735.png)
+<img src="/assets/images/Captura-de-Tela-2016-02-25-a-s-07.42.12-1024x735.png" alt="Exemplo de busca de IPTU no Geosampa" />
 
 <figcaption>
 
@@ -71,4 +68,7 @@ Exemplo de busca de IPTU no Geosampa
 
 A ONG Minha Sampa, uma das organizações críticas a essa mudança prevista no projeto de lei, promoveu um [abaixo-assinado](http://paneladepressao.nossascidades.org/campaigns/899?success=true) para pressionar a Câmara. Também é possível consultar e questionar diretamente [os vereadores](http://www.camara.sp.gov.br/vereadores/) sobre o projeto e, neste domingo, dia 28, participar de uma [aula pública sobre Direito à Cidade](http://polis.org.br/noticias/aula-publica-na-paulista-conversas-de-rua-o-direito-a-cidade/) que o Instituto Pólis realiza na Avenida Paulista.
 
-_\* Texto atualizado na manhã desta quinta-feira, dia 25, com inclusão de links e mais informações sobre o projeto em discussão._
+<aside class="editors-note editors-note--footer" role="note">
+<p class="editors-note-kicker">Atualização de 2016</p>
+<p><em>Texto atualizado na manhã desta quinta-feira, dia 25, com inclusão de links e mais informações sobre o projeto em discussão.</em></p>
+</aside>
