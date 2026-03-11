@@ -140,6 +140,19 @@ body {
   margin: 0 0 1em 0;
 }
 
+/* Light panel + shade for in-article figures (Argentina maps, etc.) */
+.post-content figure.post-figure-end,
+.post-content figure.post-figure-center {
+  background: #f6f7f9;
+  border: 1px solid #e2e5ea;
+  border-radius: 8px;
+  box-shadow:
+    0 1px 2px rgba(0, 0, 0, 0.04),
+    0 4px 14px rgba(0, 0, 0, 0.07);
+  padding: 10px 12px 12px;
+  box-sizing: border-box;
+}
+
 .post-content figure.post-figure-end {
   float: right;
   width: 300px;
@@ -151,13 +164,14 @@ body {
   margin: 0;
   width: 100%;
   height: auto;
+  border-radius: 4px;
 }
 
 .post-content figure.post-figure-end figcaption {
   font-size: 0.85em;
   line-height: 1.45;
   color: #444;
-  margin-top: 0.45em;
+  margin-top: 0.55em;
   text-align: left;
 }
 
@@ -171,11 +185,12 @@ body {
 .post-content figure.post-figure-center img {
   margin-left: auto;
   margin-right: auto;
+  border-radius: 4px;
 }
 
 .post-content figure.post-figure-center figcaption {
   font-size: 0.88em;
-  margin-top: 0.5em;
+  margin-top: 0.55em;
   text-align: left;
 }
 
@@ -297,10 +312,13 @@ body {
   width: 100%;
   max-width: 100%;
   margin: 1.25em 0 0.35em;
-  border: 1px solid #ccc;
-  border-radius: 2px;
+  border: 1px solid #e2e5ea;
+  border-radius: 8px;
   overflow: hidden;
-  background: #f9f9f9;
+  background: #f6f7f9;
+  box-shadow:
+    0 1px 2px rgba(0, 0, 0, 0.04),
+    0 4px 14px rgba(0, 0, 0, 0.07);
 }
 
 .embed-osm iframe {
