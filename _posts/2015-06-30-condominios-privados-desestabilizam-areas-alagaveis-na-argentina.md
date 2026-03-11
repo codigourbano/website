@@ -17,7 +17,7 @@ tags:
 
 **Por Daniel Santini**
 
-<figure>
+<figure class="post-figure-end">
 
 <img src="/assets/images/umedales2-300x214.png" width="300" height="214" alt="Mapa: humedales e urbanização na bacia do Rio Luján" />
 
@@ -25,7 +25,7 @@ tags:
 
 Na Argentina, um trabalho de mapeamento detalhado e de monitoramento da construção de condomínios privados em áreas alagáveis tem ajudado a identificar alterações que afetam a bacia do Rio Luján. Os countries, como são conhecidos tais bairros privados, ganham espaço na região ao norte de Buenos Aires e têm sido erguidos em zonas conhecidas como humedais (_em espanhol, humedales_). O Rio Luján desagua no Rio Paraná, na altura do município El Tigre, e a confluência termina no delta do Paraná, conhecido na região como Delta do Tigre, uma área repleta de canais navegáveis.
 
-<figure>
+<figure class="post-figure-end">
 
 <img src="/assets/images/umedales1-300x218.png" width="300" height="218" alt="Mapa: empreendimentos e canais em áreas úmidas" />
 
@@ -33,11 +33,13 @@ Na Argentina, um trabalho de mapeamento detalhado e de monitoramento da constru�
 
 Para a construção de casas de luxo em áreas alagáveis têm sido utilizadas técnicas como a construção de diques e pôlders, que permitem a ocupação do terreno. Os empreendimentos são organizados em círculos e as casas ficam na beira dos canais, um apelo que serve como atrativo. A modificação do cenário e a expansão de tais condomínios, porém, tem provocado impactos sociais e ambientais na região. Pesquisadores especializados em cartografia social e política relacionam enchentes inéditas em áreas que não eram alagáveis à redução da área de várzea natural do rio.
 
+<div class="post-float-clear" aria-hidden="true"></div>
+
 **"Ecofriendly"**
 
 "A publicidade apresenta os condomínios fechados de 'alto padrão' como condomínios _ecofriendly_, de boa relação com a natureza. Mas a regra é que são empreendimentos altamente impactantes, que degradam áreas _humedales_", diz a geógrafa argentina Patricia Pintos, pesquisadora do Centro de Investigaciones Geográficas (CIG) da Universidad Nacional de la Plata. Mestre em Políticas, Projetos e Gestão de cidades pela Universidade de Barcelona, ela tem estudado a relação entre a expansão dos condomínios fechados ao redor de Buenos Aires e os alagamentos da periferia da cidade.
 
-<figure>
+<figure class="post-figure-end">
 
 <img src="/assets/images/contraste-300x268.png" width="300" height="268" alt="Condomínio privado cercado por muro em área mais alta ao lado de bairro alagado" />
 
@@ -53,9 +55,11 @@ Condomínio privado cercado por muro construído em área mais alta ao lado de b
 
 "Há uma área que vem sofrendo inundações frequentes. O que fica embaixo d'água são os bairros populares, não os condomínios fechados. Há vários pontos de inflexão para se mudar esse padrão de urbanização privatista: problematizar a commoditização da natureza; levantar o debate sobre a função social da propriedade; e visibilizar a fraca regulação, como, por exemplo, o não cumprimento das normas ambientais", defende.
 
+<div class="post-float-clear" aria-hidden="true"></div>
+
 Na animação abaixo, feita a partir do levantamento de Patricia Pintos, é possível ver como a parte baixa da bacia do Rio Luján (cercada por uma linha amarela/verde) foi ocupada por tais empreendimentos privados (destacados em preto/amarelo). Em azul estão os rios e córregos e em vermelho as duas principais estradas que atravessam a região.
 
-<figure>
+<figure class="post-figure-center">
 
 <img src="/assets/images/bloggif_558db2336d2a6.gif" width="400" height="300" alt="Animação: ocupação de empreendimentos privados na bacia do Rio Luján (levantamento Patricia Pintos)" loading="lazy" />
 
