@@ -8,7 +8,12 @@ categories:
 coverImage: "sao-paulo-sept2013-sept2014.gif"
 ---
 
-<iframe src="https://www.mapbox.com/labs/swipe/?infoamazonia.hm6f8jom,infoamazonia.SaoPauloFC1Sept2013&amp;infoamazonia.hm6f8jom,infoamazonia.SaoPauloFCAug3#12/-22.9454/-46.4248" width="100%" height="600" frameborder="0"></iframe>
+A matéria original usava o demonstrativo **Mapbox Swipe** (Mapbox Labs), que permitia arrastar um divisor sobre duas camadas e comparar **setembro de 2013** e **setembro de 2014** na mesma área de São Paulo (dados InfoAmazonia / cobertura vegetal e crise hídrica).
+
+<aside class="editors-note" role="note">
+<p class="editors-note-kicker">Nota do arquivo</p>
+<p>O endereço do experimento (<code>mapbox.com/labs/swipe</code>) foi descontinuado e hoje responde 404, então o embed não pode ser reproduzido aqui. A comparação em imagem e outras abordagens estão nos textos relacionados abaixo.</p>
+</aside>
 
 Comparação de imagens de satélite mostrando a diferença na cobertura vegetal entre setembro de 2013 e setembro de 2014, ilustrando a gravidade da crise hídrica em São Paulo.
 
