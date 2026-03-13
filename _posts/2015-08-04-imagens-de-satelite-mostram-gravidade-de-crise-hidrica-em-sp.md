@@ -20,7 +20,9 @@ coverImage: "output_Thx4nb.gif"
 
 A represa de Jaguari, uma das principais do Sistema Cantareira, encolheu. Do alto, a partir de imagens de satélite do sistema [Landsat 7, da Nasa](https://landsatlook.usgs.gov/), é possível ver com clareza como a área alagada de um dos principais mananciais de São Paulo diminuiu consideravelmente nos últimos cinco anos. **A primeira foto** é de 13 de junho de 2010, mês em que o nível da represa passou de 100%. **A segunda**, de 13 de julho de 2015, quando, segundo a Sabesp, o nível do volume que pode ser utilizado sem bombeamento estava abaixo de 10% (na época, [divulgação dos volumes na Sabesp](https://web.archive.org/web/20150706125712/http://www2.sabesp.com.br/mananciais/DivulgacaoSiteSabesp.aspx)). Deslize a barra para visualizar como o nível de água diminuiu.
 
-<iframe title="Comparativo interativo: represa de Jaguari, junho de 2010 e julho de 2015 (Knight Lab Juxtapose)" class="juxtapose" width="100%" height="356" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=1243d17a-4c26-11ea-b9b8-0edaf8f81e27" loading="lazy"></iframe>
+<div class="embed-juxtapose">
+<iframe title="Comparativo interativo: represa de Jaguari, junho de 2010 e julho de 2015 (Knight Lab Juxtapose)" class="juxtapose" src="https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=1243d17a-4c26-11ea-b9b8-0edaf8f81e27"></iframe>
+</div>
 
 O inverno começou em 21 de junho e, este ano, as chuvas do primeiro semestre não foram suficientes para recompor o sistema de abastecimento de São Paulo. A cidade entrou na estação mais seca do ano com o Sistema Cantareira em situação delicada.
 
