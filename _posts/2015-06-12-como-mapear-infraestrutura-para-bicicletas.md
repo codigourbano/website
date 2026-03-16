@@ -21,10 +21,17 @@ tags:
 
 <aside class="editors-note" role="note">
 <p class="editors-note-kicker">Nota do arquivo</p>
-<p>As edições em <strong>PDF</strong> e <strong>Word</strong> do guia deixaram de responder nos URLs antigos do WordPress e não há cópia estável recuperável via Internet Archive. A tradução partiu do material do <strong>Citymapper</strong>; para referência atual de etiquetas e boas práticas no <strong>OpenStreetMap</strong>, veja a <a href="https://wiki.openstreetmap.org/wiki/Bicycle">página da wiki sobre infraestrutura para bicicletas</a> (inglês) e as <a href="https://wiki.openstreetmap.org/wiki/Pt-br:Map_Features">características do mapa em português</a>.</p>
+<p>As edições originais em <strong>PDF</strong> e <strong>Word</strong> da tradução do material do <strong>Citymapper</strong> não estão mais nos URLs do WordPress, e não localizamos o binário no Internet Archive (o CDX público lista outros arquivos de <code>uploads/2015/06/</code>, mas não estes documentos).</p>
+<p>Para manter um anexo útil no arquivo estático, passamos a servir <strong>dois PDFs em inglês</strong> copiados de fontes abertas: a brochura <em>Cycle mapping for cycle routing</em> (CycleStreets / Cycling Scotland), alinhada ao objetivo do texto de 2015, e o guia <em>Providing data to OpenStreetMap</em> da OpenStreetMap Foundation. Ligações diretas: <a href="https://www.cyclestreets.org/files/CycleMappingGuide.pdf">CycleStreets</a>, <a href="https://blog.openstreetmap.org/wp-content/uploads/2020/07/Providing-data-to-OpenStreetMap.pdf">blog OSM</a>.</p>
+<p>Para etiquetas e boas práticas atuais no OSM, veja a <a href="https://wiki.openstreetmap.org/wiki/Bicycle">wiki sobre infraestrutura para bicicletas</a> (inglês) e as <a href="https://wiki.openstreetmap.org/wiki/Pt-br:Map_Features">características do mapa em português</a>.</p>
 </aside>
 
-Com o objetivo de ajudar a melhorar o mapeamento colaborativo de infraestrutura cicloviária no Brasil, publicamos um **“Guia de mapeamento cicloviário”** — documento produzido pelo [Citymapper](https://citymapper.com/sao-paulo) e traduzido em trabalho conjunto com a equipe do Código Urbano. (Os arquivos PDF e Word citados em 2015 não estão mais disponíveis nos mesmos endereços; use a nota acima.)
+Com o objetivo de ajudar a melhorar o mapeamento colaborativo de infraestrutura cicloviária no Brasil, publicamos um **“Guia de mapeamento cicloviário”** — documento produzido pelo [Citymapper](https://citymapper.com/sao-paulo) e traduzido em trabalho conjunto com a equipe do Código Urbano.
+
+**PDFs para download (cópias no próprio site):**
+
+- [Cycle mapping for cycle routing](/assets/documents/cyclestreets-osm-cycle-mapping-guide-en.pdf) (inglês, ~2,3 MB) — CycleStreets e Cycling Scotland.
+- [Providing data to OpenStreetMap](/assets/documents/providing-data-to-openstreetmap-osmf.pdf) (inglês, ~6,1 MB) — OpenStreetMap Foundation.
 
 <figure class="post-figure-center">
 <a href="https://web.archive.org/web/20160615100851id_/http://codigourbano.org/wp-content/uploads/2015/06/mapear.png">
