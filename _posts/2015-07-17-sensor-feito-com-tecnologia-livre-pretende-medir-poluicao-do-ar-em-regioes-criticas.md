@@ -25,7 +25,7 @@ O protótipo do projeto, feito com Arduino, faz uma medição de partículas de 
 
 <figure>
 
-<a href="https://www.codigourbano.org/wp-content/uploads/2020/01/sensor_de_qualidade_do_ar_dustduino.jpg">
+<a href="/assets/images/sensor_de_qualidade_do_ar_dustduino.jpg">
   <img src="/assets/images/sensor_de_qualidade_do_ar_dustduino.jpg" width="713" height="475" alt="Sensor de qualidade do ar feito com Arduino. Foto: Ana Elisa Santana / Portal EBC — CC BY 3.0" />
 </a>
 

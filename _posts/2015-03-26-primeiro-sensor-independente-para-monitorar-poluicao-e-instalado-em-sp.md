@@ -18,8 +18,8 @@ tags:
 **Por Daniel Santini, Guima San, Gustavo Faleiros e Stefano Wrobleski**
 
 <figure class="post-figure-center">
-<a href="https://www.codigourbano.org/wp-content/uploads/2020/01/dust.jpg">
-<img src="https://www.codigourbano.org/wp-content/uploads/2020/01/dust.jpg" alt="Conjunto de componentes do sensor DustDuino usados na rede em São Paulo" width="700" height="413" loading="lazy" />
+<a href="/assets/images/dust.jpg">
+<img src="/assets/images/dust.jpg" alt="Conjunto de componentes do sensor DustDuino usados na rede em São Paulo" width="700" height="413" loading="lazy" />
 </a>
 <figcaption>35 sensores como este serão espalhados por São Paulo.</figcaption>
 </figure>
@@ -29,8 +29,8 @@ O primeiro sensor independente para monitoramento da qualidade do ar em São Pau
 O sensor já começou a medir a concentração de Material Particulado (MP) de 2,5 (inalável fino) e 10 (inalável) micrômetros (milésimos de milímetro) por metro cúbico, e servirá para monitorar o nível de poluição do ar que quem passa pela região respira.
 
 <figure class="post-figure-end">
-<a href="https://www.codigourbano.org/wp-content/uploads/2020/01/banca.jpg">
-<img src="https://www.codigourbano.org/wp-content/uploads/2020/01/banca-171x300.jpg" alt="Painel de luzes na banca de jornal ao lado do sensor DustDuino no Largo da Batata" width="171" height="300" loading="lazy" />
+<a href="/assets/images/banca.jpg">
+<img src="/assets/images/banca-171x300.jpg" alt="Painel de luzes na banca de jornal ao lado do sensor DustDuino no Largo da Batata" width="171" height="300" loading="lazy" />
 </a>
 <figcaption>Luzes instaladas junto ao sensor indicam a qualidade do ar. Foto: Gustavo Faleiros.</figcaption>
 </figure>
@@ -58,5 +58,4 @@ A necessidade de revisão dos padrões adotados hoje no Brasil e as deficiência
 <aside class="editors-note editors-note--footer" role="note">
 <p class="editors-note-kicker">Nota do arquivo</p>
 <p>O wiki do Public Lab em <strong>publiclab.org/wiki/dustduino</strong> deixou de responder com o conteúdo original; indica-se o repositório no GitHub e o Instantâneo do Internet Archive. O projeto <strong>DustDuino</strong> / rede de formulários públicos foi <strong>descontinuado em 2019</strong> como descrito pela própria comunidade.</p>
-<p>As imagens são carregadas a partir do acervo <strong>codigourbano.org</strong> (caminhos <code>2020/01</code> no WordPress), já que o repositório do site estático não inclui cópias locais.</p>
 </aside>
