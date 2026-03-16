@@ -34,9 +34,9 @@ Ações individuais são fundamentais, mas sem o amparo de um pensamento e enga
 
 ## **Para conhecer mais:**
 
-Vale conhecer antes de mais nada o site da [Código Urbano](https://www.codigourbano.org/) e também as iniciativas presentes na Mapatona: [HackAgenda](http://www.hackagenda.com.br/); [PedalaSampa](https://www.facebook.com/pedalasampa); [Ciclocidade](http://ciclocidade.org.br/); [Mobilize](http://www.mobilize.org.br/); [Bicidade](http://bicidade.com.br/); [Transporte Ativo](http://ta.org.br/mapas); e [BikeIT!](http://www.bikeit.com.br/).
+Vale conhecer antes de mais nada o site da [Código Urbano](https://www.codigourbano.org/) e também as iniciativas presentes na Mapatona: [HackAgenda](https://www.hackagenda.com.br/); [PedalaSampa](https://www.facebook.com/pedalasampa); [Ciclocidade](https://ciclocidade.org.br/); [Mobilize](https://www.mobilize.org.br/); [Bicidade](https://bicidade.com.br/); [Transporte Ativo](https://ta.org.br/mapas); e [BikeIT!](https://www.bikeit.com.br/).
 
-Dos projetos dos próprios participantes, destaque para o [BikeIIT!](http://www.bikeit.com.br/) e os [mapas colaborativos da Transporte Ativo](http://ta.org.br/mapas). Vale destacar ainda outras iniciativas interessantes de mapeamento: [Wheelmap.org](http://wheelmap.org/); [Cyclestreets.net](http://cyclestreets.net/); [Ridethecity.com](http://ridethecity.com/); [Mapazonia.org](http://mapazonia.org/) e [Grelhas Assassinas em São Paulo](http://goo.gl/rwZ8QW).
+Dos projetos dos próprios participantes, destaque para o [BikeIIT!](https://www.bikeit.com.br/) e os [mapas colaborativos da Transporte Ativo](https://ta.org.br/mapas). Vale destacar ainda outras iniciativas interessantes de mapeamento: [Wheelmap.org](https://wheelmap.org/); [Cyclestreets.net](https://www.cyclestreets.net/); [Ridethecity.com](https://ridethecity.com/); [Mapazonia.org](https://mapazonia.org/) e [Grelhas Assassinas em São Paulo](https://goo.gl/rwZ8QW).
 
 ## **Como colaborar no mapeamento da sua cidade**
 
@@ -65,12 +65,12 @@ Ainda assim, é possível também inspirar o mundo através de um passeio em bic
 
 Façamos o mapeamento, por cada vez mais infraestrutura de qualidade com mais pessoas em bicicleta mais vezes.
 
-_Texto [originalmente publicado pela Transporte Ativo](http://transporteativo.org.br/wp/2015/01/20/mapeamento-ativo-das-cidades/) e reproduzido com autorização do autor._
+_Texto [originalmente publicado pela Transporte Ativo](https://transporteativo.org.br/wp/2015/01/20/mapeamento-ativo-das-cidades/) e reproduzido com autorização do autor._
 
 ## **Postagens relacionadas do Transporte Ativo:**
 
-- [Um mapa mais colaborativo](http://transporteativo.org.br/wp/2012/11/26/um-mapa-mais-colaborativo/)
-- [Ciclovias para o centro do Rio de Janeiro](http://transporteativo.org.br/wp/2013/07/18/ciclovias-para-o-centro-do-rio-de-janeiro/)
-- [O uso do espaço urbano por veículo](http://transporteativo.org.br/wp/2013/08/04/o-uso-do-espaco-urbano-por-veiculo/)
-- [A evolução do mapeamento cicloviário](http://transporteativo.org.br/wp/2013/07/31/evolucao-mapeamento-cicloviario/)
-- [Ciclovias, paradigmas de planejamento](http://transporteativo.org.br/wp/2013/01/25/ciclovias-paradigmas-de-planejamento/)
+- [Um mapa mais colaborativo](https://transporteativo.org.br/wp/2012/11/26/um-mapa-mais-colaborativo/)
+- [Ciclovias para o centro do Rio de Janeiro](https://transporteativo.org.br/wp/2013/07/18/ciclovias-para-o-centro-do-rio-de-janeiro/)
+- [O uso do espaço urbano por veículo](https://transporteativo.org.br/wp/2013/08/04/o-uso-do-espaco-urbano-por-veiculo/)
+- [A evolução do mapeamento cicloviário](https://transporteativo.org.br/wp/2013/07/31/evolucao-mapeamento-cicloviario/)
+- [Ciclovias, paradigmas de planejamento](https://transporteativo.org.br/wp/2013/01/25/ciclovias-paradigmas-de-planejamento/)
