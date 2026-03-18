@@ -39,7 +39,7 @@ Sensor de qualidade do ar feito com Arduino. Foto: Ana Elisa Santana / Portal EB
 
 **Mapa colaborativo**
 
-Todas as informações são enviadas para a plataforma [OpenDustMap](https://web.archive.org/web/20151004080753/http://opendustmap.com/) (cópia de 2015 no Internet Archive; o domínio original saiu do ar), onde é possível clicar em cada um dos pontos e ver uma linha do tempo com as medições. A ideia é que o mapa colaborativo cresça, com a participação de pessoas comuns interessadas em medir a qualidade do ar em seus bairros. Para instalar, basta configurar o Wi-Fi e geo-referenciar a posição da sua casa.
+Todas as informações são enviadas para a plataforma [OpenDustMap](https://web.archive.org/web/20151004080753/https://opendustmap.com/) (cópia de 2015 no Internet Archive; o domínio original saiu do ar), onde é possível clicar em cada um dos pontos e ver uma linha do tempo com as medições. A ideia é que o mapa colaborativo cresça, com a participação de pessoas comuns interessadas em medir a qualidade do ar em seus bairros. Para instalar, basta configurar o Wi-Fi e geo-referenciar a posição da sua casa.
 
 O processo de instalação e configuração tem sido ensinado em hackerlabs (oficinas hackeres) realizados no Largo da Batata, em São Paulo, junto com o coletivo Garoa Hacker Clube. É no Largo da Batata, também, que está instalado o primeiro dos protótipos de medição da qualidade do ar. Em uma banca de revista na Avenida Faria Lima, ligada ao sensor, foi instalada uma fita de led que informa os índices de qualidade do ar às pessoas na região.
 
