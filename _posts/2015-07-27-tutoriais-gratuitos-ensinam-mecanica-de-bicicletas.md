@@ -15,9 +15,9 @@ tags:
 coverImage: "chave151.png"
 ---
 
-Como remendar uma câmara furada? Como lubrificar a corrente da bicicleta? Como ajustar um freio v-brake? Autonomia é a palavra-chave da série de vídeos e textos tutoriais com explicações diretas e didáticas que ensinam qualquer um a ajustar uma bicicleta. A iniciativa, chamada de [Chave Quinze](http://chavequinze.com/), prevê a distribuição de conhecimento sobre mecânica de graça e de maneira aberta. O conteúdo é distribuído na página e também em um [canal de Youtube](https://www.youtube.com/channel/UC7IkbwN6jfphor63V55KzCg/videos), criado para o projeto.
+Como remendar uma câmara furada? Como lubrificar a corrente da bicicleta? Como ajustar um freio v-brake? Autonomia é a palavra-chave da série de vídeos e textos tutoriais com explicações diretas e didáticas que ensinam qualquer um a ajustar uma bicicleta. A iniciativa, chamada de [Chave Quinze](https://chavequinze.com/), prevê a distribuição de conhecimento sobre mecânica de graça e de maneira aberta. O conteúdo é distribuído na página e também em um [canal de Youtube](https://www.youtube.com/channel/UC7IkbwN6jfphor63V55KzCg/videos), criado para o projeto.
 
-O projeto foi lançado no último Dia Internacional da Mulher, 8 de março, por [Gabriela Kato e Talita Noguchi](http://chavequinze.com/quem-somos/), e tem entre suas preocupações é a falta de representatividade das mulheres quando o assunto é mecânica de bicicletas, conforme destacado no [texto de estreia](http://chavequinze.com/2015/03/08/como-tirar-e-colocar-roda-traseira-de-bicicleta-e-trocar-camara-de-ar-furada/):
+O projeto foi lançado no último Dia Internacional da Mulher, 8 de março, por [Gabriela Kato e Talita Noguchi](https://chavequinze.com/quem-somos/), e tem entre suas preocupações é a falta de representatividade das mulheres quando o assunto é mecânica de bicicletas, conforme destacado no [texto de estreia](https://chavequinze.com/2015/03/08/como-tirar-e-colocar-roda-traseira-de-bicicleta-e-trocar-camara-de-ar-furada/):
 
 > _Se digitar “mulher” e “bicicleta” no Youtube entre os vídeos brasileiros, por exemplo, aparecerão entre os primeiros resultados mulheres em biquínis ou roupas íntimas sobre bicicletas, com alguns closes na bunda, e notícias de acidentes de trânsito envolvendo mulheres, mas não mulheres praticando ciclismo como esporte, dando dicas de como pedalar diariamente na cidade ou ensinando a fazer manutenção_
 
@@ -60,58 +60,58 @@ Acho que contraditório é acreditar na bicicleta como um instrumento libertári
 **3 - Como é descontruir e subverter a ideia de que mecânica, assim como muito de tecnologia, é uma área masculina?**  
 Estamos, assim como muitas outras mulheres por todo o Brasil, tentando construir um novo espaço e uma nova forma de se democratizar esse conhecimento sem barreiras de gênero. A construção desse espaço é importante no que diz respeito à representatividade da mulher em vários campos e na ocupação deles. Estamos num momento em que a maior parte dos nossos acessos ainda se dá por homens, o que mostra claramente o motivo de estamos aqui fazendo esse trabalho.
 
-Na página do projeto, já são dez [tutoriais detalhados com textos](http://chavequinze.com/category/tutoriais/), cujos vídeos reproduzimos abaixo:
+Na página do projeto, já são dez [tutoriais detalhados com textos](https://chavequinze.com/category/tutoriais/), cujos vídeos reproduzimos abaixo:
 
 <table class="chave-quinze-videos">
   <tbody>
     <tr>
       <td>
         <iframe src="https://www.youtube.com/embed/eJQai0PQfm0" title="Chave Quinze: tipos de bicos de câmara de ar" width="300" height="169" allowfullscreen loading="lazy"></iframe>
-        <p><a href="http://chavequinze.com/2015/07/14/tipos-de-bico-de-camara/">tipos de bicos de câmara de ar</a></p>
+        <p><a href="https://chavequinze.com/2015/07/14/tipos-de-bico-de-camara/">tipos de bicos de câmara de ar</a></p>
       </td>
       <td>
         <iframe src="https://www.youtube.com/embed/OmuRfMhM3Es" title="Chave Quinze: limpar e lubrificar cabos" width="300" height="169" allowfullscreen loading="lazy"></iframe>
-        <p><a href="http://chavequinze.com/2015/06/29/como-limpar-e-lubrificar-cabos-cuidados-com-maresia/">como limpar e lubrificar cabos</a></p>
+        <p><a href="https://chavequinze.com/2015/06/29/como-limpar-e-lubrificar-cabos-cuidados-com-maresia/">como limpar e lubrificar cabos</a></p>
       </td>
     </tr>
     <tr>
       <td>
         <iframe src="https://www.youtube.com/embed/uCOxUQ8a1Y8" title="Chave Quinze: remendar corrente" width="300" height="169" allowfullscreen loading="lazy"></iframe>
-        <p><a href="http://chavequinze.com/2015/06/18/como-remendar-corrente/">como remendar corrente</a></p>
+        <p><a href="https://chavequinze.com/2015/06/18/como-remendar-corrente/">como remendar corrente</a></p>
       </td>
       <td>
         <iframe src="https://www.youtube.com/embed/piURLmW2eNg" title="Chave Quinze: ajustar freio v-brake (parte 3)" width="300" height="169" allowfullscreen loading="lazy"></iframe>
-        <p><a href="http://chavequinze.com/2015/06/01/como-ajustar-freio-v-brake-parte-3/">como ajustar freio v-brake (parte 3)</a></p>
+        <p><a href="https://chavequinze.com/2015/06/01/como-ajustar-freio-v-brake-parte-3/">como ajustar freio v-brake (parte 3)</a></p>
       </td>
     </tr>
     <tr>
       <td>
         <iframe src="https://www.youtube.com/embed/DigAHtpdTSw" title="Chave Quinze: ajustar freio v-brake (parte 2)" width="300" height="169" allowfullscreen loading="lazy"></iframe>
-        <p><a href="http://chavequinze.com/2015/05/18/como-ajustar-freio-v-brake-parte-2/">como ajustar freio v-brake (parte 2)</a></p>
+        <p><a href="https://chavequinze.com/2015/05/18/como-ajustar-freio-v-brake-parte-2/">como ajustar freio v-brake (parte 2)</a></p>
       </td>
       <td>
         <iframe src="https://www.youtube.com/embed/wBOqfQnRVcE" title="Chave Quinze: ajustar freio v-brake (parte 1)" width="300" height="169" allowfullscreen loading="lazy"></iframe>
-        <p><a href="http://chavequinze.com/2015/05/04/como-ajustar-freio-v-brake-parte-1/">como ajustar freio v-brake (parte 1)</a></p>
+        <p><a href="https://chavequinze.com/2015/05/04/como-ajustar-freio-v-brake-parte-1/">como ajustar freio v-brake (parte 1)</a></p>
       </td>
     </tr>
     <tr>
       <td>
         <iframe src="https://www.youtube.com/embed/JqbPnwGYi-8" title="Chave Quinze: roda traseira de bike fixa" width="300" height="169" allowfullscreen loading="lazy"></iframe>
-        <p><a href="http://chavequinze.com/2015/04/20/como-colocar-roda-traseira-de-bike-fixa-e-tensionar-corrente/">como colocar roda traseira de fixa</a></p>
+        <p><a href="https://chavequinze.com/2015/04/20/como-colocar-roda-traseira-de-bike-fixa-e-tensionar-corrente/">como colocar roda traseira de fixa</a></p>
       </td>
       <td>
         <iframe src="https://www.youtube.com/embed/Jjv2ck2PCNM" title="Chave Quinze: lubrificar a corrente" width="300" height="169" allowfullscreen loading="lazy"></iframe>
-        <p><a href="http://chavequinze.com/2015/04/01/como-lubrificar-corrente/">como lubrificar a corrente</a></p>
+        <p><a href="https://chavequinze.com/2015/04/01/como-lubrificar-corrente/">como lubrificar a corrente</a></p>
       </td>
     </tr>
     <tr>
       <td>
         <iframe src="https://www.youtube.com/embed/4y7j06NeEEo" title="Chave Quinze: remendar câmara" width="300" height="169" allowfullscreen loading="lazy"></iframe>
-        <p><a href="http://chavequinze.com/2015/03/23/como-remendar-camarafurada/">como remendar câmara</a></p>
+        <p><a href="https://chavequinze.com/2015/03/23/como-remendar-camarafurada/">como remendar câmara</a></p>
       </td>
       <td>
         <iframe src="https://www.youtube.com/embed/L19SYOKwCq8" title="Chave Quinze: trocar câmara da roda traseira" width="300" height="169" allowfullscreen loading="lazy"></iframe>
-        <p><a href="http://chavequinze.com/2015/03/08/como-tirar-e-colocar-roda-traseira-de-bicicleta-e-trocar-camara-de-ar-furada/">como trocar câmara da roda traseira</a></p>
+        <p><a href="https://chavequinze.com/2015/03/08/como-tirar-e-colocar-roda-traseira-de-bicicleta-e-trocar-camara-de-ar-furada/">como trocar câmara da roda traseira</a></p>
       </td>
     </tr>
   </tbody>
