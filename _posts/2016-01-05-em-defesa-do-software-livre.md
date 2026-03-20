@@ -15,7 +15,7 @@ tags:
 coverImage: "Penrose_triangle_animation.gif"
 ---
 
-A partir de que medida o software livre pode influenciar e modificar relações econômicas, políticas e sociais? Liberdade de comunicação e direito à informação, combinados com a constituição de plataformas de conhecimento comum e compartilhado, como [Wikipedia](https://pt.wikipedia.org/) ou [OpenStreetMap](http://openstreetmap.org/), constituem uma ruptura capaz de transformar a maneira como o mundo real está organizado? Quais os alcances e perspectivas para a internet?
+A partir de que medida o software livre pode influenciar e modificar relações econômicas, políticas e sociais? Liberdade de comunicação e direito à informação, combinados com a constituição de plataformas de conhecimento comum e compartilhado, como [Wikipedia](https://pt.wikipedia.org/) ou [OpenStreetMap](https://www.openstreetmap.org/), constituem uma ruptura capaz de transformar a maneira como o mundo real está organizado? Quais os alcances e perspectivas para a internet?
 
 Esta e outras questões estão colocadas na página [En Defensa del Software Libre](https://endefensadelsl.org/), organizada por um grupo baseado na Argentina que produz artigos e publicações sobre software livre e temas correlatos. Os textos, disponíveis somente em espanhol, podem ser uma referência útil para discussão de organização de redes de comunicação livres e licenciamento de conteúdo.
 
@@ -29,7 +29,7 @@ A perspectiva (ou mesmo concretude) de um mundo em que é possível compartilha
 
 **Copyright, copyleft e copyfarleft**
 
-A questão da liberdade de software é apresentada como um ponto-chave para a constituição da democracia - questão detalhada no artigo [Por que a liberdade política depende da liberdade de software mais que nunca](https://endefensadelsl.org/por_que_la_libertad_politica.html). O contexto de mudanças em curso na internet, com formatos mais centralizados e controlados, e plataformas que regulam e mediam a transmissão de informações (como o Facebook), está detalhado no capítulo "Pegos na teia de mundial" da versão em espanhol do [Manifesto Telecomunista](http://www.rosalux.org.mx/articulo/el-manifiesto-telecomunista-0) de [Dmytri Kleiner,](http://www.dmytri.info/) traduzida e impressa com o apoio do escritório da [Fundação Rosa Luxemburgo no México](http://www.rosalux.org.mx/).
+A questão da liberdade de software é apresentada como um ponto-chave para a constituição da democracia - questão detalhada no artigo [Por que a liberdade política depende da liberdade de software mais que nunca](https://endefensadelsl.org/por_que_la_libertad_politica.html). O contexto de mudanças em curso na internet, com formatos mais centralizados e controlados, e plataformas que regulam e mediam a transmissão de informações (como o Facebook), está detalhado no capítulo "Pegos na teia de mundial" da versão em espanhol do [Manifesto Telecomunista](https://www.rosalux.org.mx/articulo/el-manifiesto-telecomunista-0) de [Dmytri Kleiner,](https://www.dmytri.info/) traduzida e impressa com o apoio do escritório da [Fundação Rosa Luxemburgo no México](https://www.rosalux.org.mx/).
 
 <a href="https://endefensadelsl.org/ppl_deed_es.html"><img src="/assets/images/nc.png" alt="Licença de Produção de Pares (trecho ilustrativo)" /></a>
 
