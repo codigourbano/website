@@ -43,10 +43,10 @@ Todas as informações são enviadas para a plataforma [OpenDustMap](https://web
 
 O processo de instalação e configuração tem sido ensinado em hackerlabs (oficinas hackeres) realizados no Largo da Batata, em São Paulo, junto com o coletivo Garoa Hacker Clube. É no Largo da Batata, também, que está instalado o primeiro dos protótipos de medição da qualidade do ar. Em uma banca de revista na Avenida Faria Lima, ligada ao sensor, foi instalada uma fita de led que informa os índices de qualidade do ar às pessoas na região.
 
-O sensor é um projeto colaborativo feito com o [Dustduino](https://publiclab.org/wiki/dustduino), que está implementando o software, e a [Earth Journalism Network](https://earthjournalism.net/), que financiou a prototipagem e o desenvolvimento, e a Associação Ecologia Digital, que já tem algumas iniciativas como o Código Urbano.
+O sensor é um projeto colaborativo feito com o [sensor DustDuino](https://github.com/MattSchroyer/DustDuino) (documentação histórica no [Public Lab, Internet Archive](https://web.archive.org/web/20150331235310/http://publiclab.org/wiki/dustduino)), que está implementando o software, e a [Earth Journalism Network](https://earthjournalism.net/), que financiou a prototipagem e o desenvolvimento, e a Associação Ecologia Digital, que já tem algumas iniciativas como o Código Urbano.
 
 <div class="embed-youtube">
-<iframe src="https://www.youtube.com/embed/02KkpSU-MJg" title="Vídeo: sensor de qualidade do ar (Dustduino / reportagem)" allowfullscreen loading="lazy"></iframe>
+<iframe src="https://www.youtube.com/embed/02KkpSU-MJg" title="Vídeo: sensor de qualidade do ar (Dustduino / reportagem)" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe>
 </div>
 
 A primeira etapa do projeto tem dois protótipos já em funcionamento, no Largo da Batata e no Minhocão, em São Paulo, e mais 35 prontos para instalação. O critério utilizado para escolher os locais será a criticidade dos pontos, como avenidas que têm intensa movimentação de veículos.
