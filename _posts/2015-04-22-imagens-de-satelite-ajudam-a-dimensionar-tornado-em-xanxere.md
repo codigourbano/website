@@ -19,11 +19,11 @@ Imagens de satélite permitem visualizar a movimentação das nuvens antes, dur
 
 Ao se observar as imagens de satélite, é possível visualizar a formação de duas supercélulas sobre Santa Catarina, de acordo com Oton Barros, pesquisador do Instituto Nacional de Pesquisas Espaciais (INPE). Integrante do núcleo de Resposta Rápida da Coordenação de Observação da Terra, do INPE, ele organizou a animação abaixo a partir de registros da movimentação das nuvens. [Supercélulas](https://pt.wikipedia.org/wiki/Superc%C3%A9lula) são tempestades em que ventos ascendentes giram para dentro de uma nuvem, fenômeno marcado por raios e ventanias muito fortes, além de tornados. Do espaço, é possível visualizar tais nuvens, que foram massas circulares com quilômetros de diametro . No vídeo, é possível visualizar duas destas massas no nono segundo. "Cada uma tem uns 90 km de diâmetro", explica o pesquisador.
 
- 
+Animação publicada pelo INPE (YouTube):
 
-<iframe src="https://www.youtube.com/embed/Eg7Ux6IxERg?rel=0" width="480" height="360" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
-
- 
+<div class="embed-youtube">
+<iframe src="https://www.youtube.com/embed/Eg7Ux6IxERg" title="Animação GOES: supercélulas sobre Santa Catarina em abril de 2015 (INPE)" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe>
+</div>
 
 A animação foi produzida com imagens do [GOES](https://www.goes.noaa.gov/goesfull.html) ("Satélite Geoestácionário Ambiental Americano", ou em inglês "Geostationary Operational Environmental Satellite"), organizadas pela [Divisão de Satélites e Sistemas Ambientais do INPE](https://satelite.cptec.inpe.br/acervo/goes.formulario.logic). Na página, é possível acessar imagens da movimentação de nuvens na Terra inteira em diferentes datas e dias, sistema que serve de base para todo o trabalho do Centro de Previsão do Tempo e Estados Climáticos. Os registros estão abertos para consultas. No dia do tornado, por exemplo, dá para ver o momento em que as supercélulas se formam ([clique aqui ou na imagem abaixo para navegar no mapa](https://satelite.cptec.inpe.br/repositorio5/goes13/goes13_web/ams_infra_alta/2015/04/S11232950_201504201800.jpg)).
 
