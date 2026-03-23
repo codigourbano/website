@@ -14,7 +14,10 @@ tags:
 coverImage: "infraestrutura-cicloviaria-sp-codigourbano-e1581219832218.jpg"
 ---
 
-![](/assets/images/infraestrutura-cicloviaria-sp-codigourbano.jpg)
+<figure class="post-figure-center">
+<img src="/assets/images/infraestrutura-cicloviaria-sp-codigourbano.jpg" width="560" height="427" alt="Mapa colaborativo: infraestrutura cicloviária em São Paulo (OpenStreetMap)" loading="lazy" />
+<figcaption>Infraestrutura cicloviária mapeada colaborativamente em São Paulo.</figcaption>
+</figure>
 
 O esforço de conhecer e melhorar as cidades tem grandes aliados ainda pouco explorados. Um deles certamente é o mapeamento colaborativo. Para além do aspectos técnicos de como realizar o levantamento de dados e a compilação deles no Open Street Maps (OSM), um aspecto fundamental está no prazer de somar-se a um esforço coletivo global de milhões de pessoas em mapear o planeta.
 
