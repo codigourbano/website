@@ -13,7 +13,7 @@ tags:
   - "wellington-saraiva"
 ---
 
-**_Por Wellington Saraiva_*_
+**_Por Wellington Saraiva_**
 
 **Introdução**
 
@@ -39,7 +39,7 @@ Exemplos das entidades privadas citadas acima são as organizações sociais (OS
 
 **Princípios da LAI**
 
-A Lei 12.527 fixa, no art. 3.º, alguns princípios para sua aplicação. O principal deles, como decorrência direta da Constituição, é o de que a **publicidade** dos atos do poder público é a regra, e o **sigilo** tem caráter de exceção. O princípio da publicidade está previsto de forma expressa para toda a administração pública, direta ou indireta, no art. 37, _caput_, da Constituição da República. [_Caput_ é a parte inicial de um artigo de legislação. Para saber mais, leia Artigos, parágrafos, incisos e alíneas: como se elaboram as leis._
+A Lei 12.527 fixa, no art. 3.º, alguns princípios para sua aplicação. O principal deles, como decorrência direta da Constituição, é o de que a **publicidade** dos atos do poder público é a regra, e o **sigilo** tem caráter de exceção. O princípio da publicidade está previsto de forma expressa para toda a administração pública, direta ou indireta, no art. 37, _caput_, da Constituição da República. (_Caput_ é a parte inicial de um artigo de legislação.)
 
 Esse princípio da LAI é realmente fundamental, porque, embora tenha raiz em norma da Constituição da República que já está em vigor desde 1988, procura inverter a lógica que ainda parece orientar a cabeça de muitos agentes públicos: a de que o cidadão não tem direito a conhecer os atos e fatos da administração pública. A Lei de Acesso à Informação deixa claro esse direito de todo cidadão brasileiro e obriga os órgãos e entes públicos a fornecer toda informação, independentemente de justificativa do requerente, salvo casos **excepcionais** de sigilo e de proteção à privacidade, os quais devem ser fundamentados pela autoridade competente para recusar o acesso à informação.
 
@@ -199,4 +199,4 @@ Além desses, é possível obter muitas outras informações nos portais da tran
 
 Para o Poder Executivo federal, a movimentação de recursos é regulamentada pelo Decreto 7.507, de 27 de junho de 2011. O decreto já obrigava, mesmo antes da entrada em vigor da LAI, que as informações relativas ao uso dos recursos federais fossem objeto de ampla divulgação, inclusive pela internet.
 
-_* Texto originalmente publicado no Blog de Wellington Saraiva ~ Temas de Direito para o cidadão e algo mais, e reproduzido com autorização do autor. Wellington Saraiva é Coordenador da Assessoria Constitucional do Procurador-Geral da República._
+_Texto originalmente publicado no Blog de Wellington Saraiva — Temas de Direito para o cidadão e algo mais — e reproduzido com autorização do autor. Wellington Saraiva é coordenador da Assessoria Constitucional do Procurador-Geral da República._
