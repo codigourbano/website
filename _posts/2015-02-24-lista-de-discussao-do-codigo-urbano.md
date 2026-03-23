@@ -11,7 +11,7 @@ tags:
   - "participacao-ativa"
 ---
 
-![lista](/assets/images/lista.png)
+![Captura da lista de discussão do Código Urbano no Google Groups](/assets/images/lista.png)
 
 Abrimos uma lista de discussão sobre produção de código fonte e tecnologias livres para melhorar a vida nas cidades. O espaço funcionará por meio do Google Groups, mecanismo que permite o acompanhamento por e-mail ou por consultas regulares ao site. A ideia é fomentar mais um espaço para diálogo e intercâmbio de informações para o desenvolvimento de projetos que visem ampliar a transparência e acesso aos dados, favorecendo a democracia direta e participativa e o monitoramento de ações públicas e privadas.
 
