@@ -4,8 +4,12 @@ date: 2015-04-05
 layout: post
 permalink: /seca-vista-do-espaco/
 categories:
-  - "2"
-coverImage: "sao-paulo-sept2013-sept2014.gif"
+  - "satelites"
+tags:
+  - "crise-hidrica"
+  - "mapbox"
+  - "seca"
+  - "sao-paulo"
 ---
 
 A matéria original usava o demonstrativo **Mapbox Swipe** (Mapbox Labs), que permitia arrastar um divisor sobre duas camadas e comparar **setembro de 2013** e **setembro de 2014** na mesma área de São Paulo (dados InfoAmazonia / cobertura vegetal e crise hídrica).
