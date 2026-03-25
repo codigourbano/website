@@ -18,9 +18,10 @@ tags:
   - "transparencia"
 ---
 
-![](/assets/images/1.jpg)
-
-Foto: Ricardo Mendonça Ferreira/Flickr
+<figure class="post-figure-center">
+<a href="https://www.flickr.com/photos/ricardo_ferreira/354177902"><img src="/assets/images/cep-info-publica-1.jpg" width="508" height="640" alt="Ilustração em tons de vermelho e bege com símbolo de envelope e CEP" /></a>
+<figcaption>Foto: Ricardo Mendonça Ferreira / <a href="https://www.flickr.com/photos/ricardo_ferreira/354177902">Flickr</a>.</figcaption>
+</figure>
 
 **Por Daniel Santini, Vitor George e Miguel Peixe**
 
@@ -32,9 +33,10 @@ Para entender melhor a questão, primeiro é preciso entender como funciona o si
 
 A limitação faz com que, quem trabalha com uma relação de CEPs ou endereços, tenha que comprar o tal Diretório Nacional de Endereços, em pacotes que podem custar até R$ 2.500,00! Isso limita ou até inviabiliza o acesso para microempreendedores e para quem trabalha em projetos de orçamento limitado e ou sem fins lucrativos.
 
-![](/assets/images/2.jpg)
-
-Foto: Francisco Martins/Flickr
+<figure class="post-figure-end">
+<a href="https://www.flickr.com/photos/betta_design/3037266415"><img src="/assets/images/cep-info-publica-2.jpg" width="225" height="300" alt="Caixa postal em ambiente urbano" loading="lazy" /></a>
+<figcaption>Foto: Francisco Martins / <a href="https://www.flickr.com/photos/betta_design/3037266415">Flickr</a>.</figcaption>
+</figure>
 
 **Tentativas de abrir a base**
 
@@ -46,13 +48,16 @@ O primeiro, de 2012, tem como base o seguinte argumento em favor da abertura dos
 
 Em resposta, os Correios alegaram que o Diretório Nacional de Endereços é uma "obra intelectual" e que protocolaram no "Instituto Nacional de Propriedade Industrial (INPI) o pedido de Patente de Invenção, sob o Nº PI 0.204.305-0", além de terem solicitado "extensão da patente de invenção, indicada no subitem 1.1.3, perante o German Patent Applicatations, sob nº 10.346.551.0." No site do INPI, consta que quem solicitou a patente no INPI foi o engenheiro Odarci Roque de Maia Jr., um dos responsáveis pelo DNE.
 
+<div class="post-float-clear" aria-hidden="true"></div>
+
 **Dá para patentear o cadastro de CEPs?**
 
 A ideia de patentear o cadastro público de códigos postais foi considerada sem sentido pela Controladoria-Geral da União, conforme destacado no parecer:
 
-![](/assets/images/3.jpg)
-
-Foto: Sottovia / Flickr
+<figure class="post-figure-center">
+<a href="https://www.flickr.com/photos/sotto1/808195510"><img src="/assets/images/cep-info-publica-3.jpg" width="225" height="300" alt="Cartas e envelopes sobre uma superfície" loading="lazy" /></a>
+<figcaption>Foto: Sottovia / <a href="https://www.flickr.com/photos/sotto1/808195510">Flickr</a>.</figcaption>
+</figure>
 
 "Segundo a Lei 9.279/1996, em seu art. 8º, é patenteável a invenção que atenda aos requisitos de novidade, atividade inventiva e aplicação industrial. Ora, se é evidente que o objeto da solicitação conta com o requisito de aplicação industrial, o mesmo certamente não se poderá dizer a respeito do requisito de novidade. Segundo o art. 11 daquela lei, será nova a invenção que não esteja compreendida no estado da técnica, o qual é constituído "por tudo aquilo tornado acessível ao público antes da data de depósito do pedido de patente, por descrição escrita ou oral, por uso ou qualquer outro meio, no Brasil ou no exterior". Ninguém haverá de refutar a tese de que o CEP, seja ele individualizado ou como lista completa, já deixou de estar em estado da técnica muito tempo antes da data do referido depósito, em 2002. (…) A Lei de Patentes é clara em seu art. 10º, ainda, ao informar que não se considera invenção e, portanto, não patenteável como tal: V – programas de computador em si; VI – apresentação de informações; (…) Por fim, parece-nos claro que o conteúdo de banco de dados não é objeto patenteável e, caso tal ocorra, poderá vir ser objeto de declaração de nulidade, por força do art. 46 da Lei 9.279/1996."
 
@@ -64,9 +69,10 @@ O parecer defende ainda que a ideia de vender a base de dados afronta o artigo 1
 
 O texto ressalta ainda o caráter público da informação ao apontar que, apesar de restringir a difusão do catálogo de CEPs para fins comerciais, o artigo 15 citado já previa a possibilidade de distribuição gratuita dos dados: "§ 3º – É facultada a edição de lista de endereçamento postal sem finalidade comercial e de distribuição gratuita, conforme disposto em regulamento". O parecer destaca ainda que a divulgação dos CEPs é fundamental para que a União consiga manter o serviço postal em funcionamento, o que está previsto na Constituição.
 
-![](/assets/images/4.jpg)
-
-Foto: Zyberchema / Flickr
+<figure class="post-figure-center">
+<a href="https://www.flickr.com/photos/zyberchema/3610919912"><img src="/assets/images/cep-info-publica-4.jpg" width="640" height="428" alt="Múltiplas caixas de correio alinhadas" loading="lazy" /></a>
+<figcaption>Foto: Zyberchema / <a href="https://www.flickr.com/photos/zyberchema/3610919912">Flickr</a>.</figcaption>
+</figure>
 
 O parecer dá razão ao solicitante, mas aponta que, por se tratar de uma demanda de interesse público e coletiva, "foge aos procedimentos e prazos previstos para as demandas por transparência passiva", o que impede que o recurso seja acolhido. A CGU, porém, conclui recomendando à empresa "medidas adequadas para, em tempo futuro, disponibilizar a informação solicitada em transparência ativa, conforme determina o art. 8º da Lei 12.527/2011".
 
@@ -80,9 +86,10 @@ O novo parecer destaca que:
 
 Apesar de reconhecer que o CEP é informação pública, os pareceres apontam que, por ter sido organizado por uma empresa pública, "uma pessoa jurídica de direito privado", tal base estaria sujeita a lei de direitos autorais. Por entender haver a necessidade de regulamentação para definir "o caráter público da informação solicitada ou, de forma diversa, seu caráter patrimonial", a CGU encaminhou o caso para a Comissão Mista de Reavaliação de Informações (CMRI). Esta comissão interministerial, que é presidida pela Casa Civil da Presidência da República, devolveu a bola defendendo que o mesmo fosse analisado a partir da Lei Postal, sem mais explicações.
 
-![](/assets/images/5.jpg)
-
-Foto: Chav Gecko / Flickr
+<figure class="post-figure-center">
+<a href="https://www.flickr.com/photos/geckospics/547367126"><img src="/assets/images/cep-info-publica-5.jpg" width="640" height="480" alt="Interior de instalação dos Correios com balcão e público" loading="lazy" /></a>
+<figcaption>Foto: Chav Gecko / <a href="https://www.flickr.com/photos/geckospics/547367126">Flickr</a>.</figcaption>
+</figure>
 
 Na conclusão dos pareceres, o relator conclui defendendo que a CMRI determinou que a Lei Postal prevalece sobre a Lei de Acesso à Informações, "de onde se admite que, em tese, possa uma informação pública ser objeto de comercialização, e que a sua natureza patrimonial decorra da possibilidade de comercialização, e não de pré- existente direito de propriedade que sobre ela haja recaído, subtraindo-a da esfera pública".
 
@@ -96,12 +103,13 @@ O Código Urbano procurou a assessoria de imprensa dos Correios para abrir espa�
 
 Questionados se existe interesse em melhorar o acesso, ainda que apenas para fins não comerciais, e se existe perspectiva para a base integral ser aberta, os assessores dos Correios responderam que "em conformidade com a Lei 6.538/78 que regula os direitos e obrigações concernentes ao Serviço Postal, notadamente pela por força do artigo 8º, inc. II, a ECT pode comercializar a sua base de dados do CEP" e que "para atender as necessidades de acesso e obtenção da base de dados do CEP, os Correios ofertam ao mercado os produtos Guia Postal Brasileiro (GPB) e o Diretório Nacional de Endereços (DNE), nas modalidades Básico e Master, que podem ser adquiridos na loja virtual https://www.shopping.correios.com.br/."
 
-**Leia a resposta dos Correios na íntegra.**
+**[Leia a resposta dos Correios na íntegra.]({% post_url 2015-03-12-integra-do-posicionamento-dos-correios-sobre-a-abertura-da-base-de-dados-do-cep %})**
 
 Mesmo com o posicionamento, seguimos confusos com a ideia de que uma base pública, cuja divulgação é de interesse público, possa permanecer fechada sendo acessível apenas para quem tem dinheiro. E insistimos para nossos amigos dos Correios abrirem a base de dados para todos.
 
 #LiberteoCEP
 
-![](/assets/images/6.jpg)
-
-Foto: Zyberchema / Flickr
+<figure class="post-figure-center">
+<a href="https://www.flickr.com/photos/zyberchema/3911495073"><img src="/assets/images/cep-info-publica-6.jpg" width="640" height="428" alt="Quadro de avisos e caixa de correio em parede azul" loading="lazy" /></a>
+<figcaption>Foto: Zyberchema / <a href="https://www.flickr.com/photos/zyberchema/3911495073">Flickr</a>.</figcaption>
+</figure>
