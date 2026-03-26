@@ -31,6 +31,7 @@ A animação foi produzida com imagens do [GOES](https://www.goes.noaa.gov/goesf
 
 <figure class="post-figure-center">
 <a href="https://satelite.cptec.inpe.br/repositorio5/goes13/goes13_web/ams_infra_alta/2015/04/S11232950_201504201800.jpg"><img src="/assets/images/xanxere-tornado-goes-inpe.png" alt="Captura do acervo GOES do INPE: infravermelho em alta resolução, 20 de abril de 2015, 18h00 UTC" width="618" height="418" loading="lazy" /></a>
+<figcaption>Imagem do acervo GOES do INPE (infravermelho em alta resolução): instante em que as supercélulas se formam, 20 de abril de 2015, 18h00 UTC. <a href="https://satelite.cptec.inpe.br/repositorio5/goes13/goes13_web/ams_infra_alta/2015/04/S11232950_201504201800.jpg">Abrir no acervo</a>.</figcaption>
 </figure>
 
  
@@ -41,6 +42,7 @@ Além das imagens de satélite que estão "estacionados" ao redor da Terra, e pe
 
 <figure class="post-figure-center">
 <a href="https://earthdata.nasa.gov/labs/worldview/?p=geographic&l=MODIS_Aqua_CorrectedReflectance_TrueColor\(hidden\),MODIS_Terra_CorrectedReflectance_TrueColor,Reference_Labels,Reference_Features,Coastlines&t=2015-04-20&v=-56.13875912042096,-30.799257735650137,-44.13289974542096,-25.534609298150137"><img src="/assets/images/xanxere-tornado-nasa-worldview.png" alt="Captura do NASA Worldview: MODIS Terra e Aqua, 20 de abril de 2015, sul do Brasil" width="640" height="379" loading="lazy" /></a>
+<figcaption>NASA Worldview, composição MODIS (Aqua/Terra), 20 de abril de 2015 — registro único do dia, com mais detalhe que o GOES, porém sem a sequência hora a hora. <a href="https://earthdata.nasa.gov/labs/worldview/?p=geographic&amp;l=MODIS_Aqua_CorrectedReflectance_TrueColor(hidden),MODIS_Terra_CorrectedReflectance_TrueColor,Reference_Labels,Reference_Features,Coastlines&amp;t=2015-04-20&amp;v=-56.13875912042096,-30.799257735650137,-44.13289974542096,-25.534609298150137">Abrir no mapa</a>.</figcaption>
 </figure>
 
  
