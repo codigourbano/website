@@ -15,9 +15,10 @@ coverImage: "rios.png"
 
 _Negligência na gestão dos recursos naturais, um severo período de seca e a cultura do desperdício: a maior região metropolitana do Brasil à beira do colapso_
 
-![](/assets/images/xibe_crise_hidrica_paraibuna-3-1024x683.jpg)
-
-A represa de Paraibuna, que integra a bacia do rio Paraíba do Sul, é um dos reservatórios paulistas que teve seu cenário alterado pela seca. Foto: Flávio Forner/XIBÉ
+<figure class="post-figure-center">
+<img src="/assets/images/xibe_crise_hidrica_paraibuna-3-1024x683.jpg" width="1024" height="683" alt="Represa de Paraibuna com nível baixo: reservatório na bacia do rio Paraíba do Sul durante a seca" loading="lazy" />
+<figcaption>A represa de Paraibuna, que integra a bacia do rio Paraíba do Sul, é um dos reservatórios paulistas que teve seu cenário alterado pela seca. Foto: Flávio Forner / XIBÉ.</figcaption>
+</figure>
 
 _por Thiago Medaglia_
 

@@ -20,7 +20,11 @@ tags:
 
 **Por Daniel Santini, Vitor George e Miguel Peixe**
 
-[![liberte](/assets/images/liberte.png)](/assets/images/liberte.png)Em março, ao explicar [por que o CEP deve ser tratado como informação pública]({% post_url 2015-03-12-por-que-o-cep-deve-ser-tratado-como-informacao-publica %}), o Código Urbano apresentou um panorama de diferentes pedidos de abertura de dados feitos a partir da [Lei de Acesso à Informação.]({% post_url 2015-02-04-como-usar-a-lei-de-acesso-a-informacao %}) Apesar de posicionamentos favoráveis por parte da Controladoria-Geral da União, as solicitações não avançaram e, os Correios decidiram seguir fornecendo ao público em geral apenas acesso limitado a base de dados pública. A consulta de CEPs hoje só pode ser feita por meio de um [sistema bastante simples](https://www.buscacep.correios.com.br/), que não permite baixar dados e onde é possível fazer somente uma busca por vez.
+<figure class="post-figure-center">
+<a href="/assets/images/liberte.png"><img src="/assets/images/liberte.png" alt="#LiberteoCEP — ilustração da campanha pela abertura dos dados de CEP" width="300" height="181" loading="lazy" /></a>
+</figure>
+
+Em março, ao explicar [por que o CEP deve ser tratado como informação pública]({% post_url 2015-03-12-por-que-o-cep-deve-ser-tratado-como-informacao-publica %}), o Código Urbano apresentou um panorama de diferentes pedidos de abertura de dados feitos a partir da [Lei de Acesso à Informação]({% post_url 2015-02-04-como-usar-a-lei-de-acesso-a-informacao %}). Apesar de posicionamentos favoráveis por parte da Controladoria-Geral da União, as solicitações não avançaram e, os Correios decidiram seguir fornecendo ao público em geral apenas acesso limitado a base de dados pública. A consulta de CEPs hoje só pode ser feita por meio de um [sistema bastante simples](https://www.buscacep.correios.com.br/), que não permite baixar dados e onde é possível fazer somente uma busca por vez.
 
 A base completa segue fechada, mas a gente preparou um raspador, que pode ajudar desenvolvedores que precisam fazer consultas de endereço no sistema dos Correios a partir de números de CEPs. Trata-se do CEP Scraper, um robozinho simpático, que raspa as informações do [BuscaCEP](https://www.buscacep.correios.com.br/) e as devolve em formato JSON, algo que pode ser especialmente útil para os que usam javascript que queiram raspar dados atualizados do CEP. Disponibilizamos este raspador em dois repositórios diferentes:
 
