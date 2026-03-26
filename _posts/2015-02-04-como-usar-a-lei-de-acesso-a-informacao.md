@@ -21,9 +21,10 @@ A Lei de Acesso à Informação, também conhecida como LAI, é uma lei federal,
 
 Como indica a própria lei em seu artigo 1.º, ela destina-se a regulamentar um direito constitucional fundamental dos cidadãos, o direito de acesso à informação pública. Esse direito é previsto expressamente em dois dispositivos constitucionais: o art. 5.º, inciso XXXIII, e o art. 37, § 3.º, inciso II. [O símbolo "§" lê-se como "parágrafo".] O art. 216, § 2.º, da Constituição da República também trata do assunto, ao determinar que cabe à administração pública permitir o acesso público aos documentos administrativos.
 
-![Lei de acesso à informação. Clique na imagem para ler a íntegra](/assets/images/lai.png)
-
-_Lei de acesso à informação. Clique na imagem para ler a íntegra_
+<figure class="post-figure-center">
+<a href="https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm"><img src="/assets/images/lai.png" width="657" height="216" alt="Lei 12.527/2011 — Lei de Acesso à Informação (clique para o texto completo no Planalto)" loading="lazy" /></a>
+<figcaption>Lei de Acesso à Informação (Lei 12.527/2011). <a href="https://www.planalto.gov.br/ccivil_03/_ato2011-2014/2011/lei/l12527.htm">Ler a íntegra no Planalto</a>.</figcaption>
+</figure>
 
 De acordo com o art. 5.º, inciso XXXIII, da Constituição, todos têm direito a receber dos órgãos públicos informações de seu interesse particular, ou de interesse coletivo ou geral; essas informações devem ser prestadas no prazo da lei, sob pena de responsabilidade, ressalvadas aquelas cujo sigilo seja imprescindível à segurança da sociedade e do Estado.
 

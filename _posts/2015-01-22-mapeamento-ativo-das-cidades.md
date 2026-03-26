@@ -19,7 +19,7 @@ coverImage: "infraestrutura-cicloviaria-sp-codigourbano-e1581219832218.jpg"
 <figcaption>Infraestrutura cicloviária mapeada colaborativamente em São Paulo.</figcaption>
 </figure>
 
-O esforço de conhecer e melhorar as cidades tem grandes aliados ainda pouco explorados. Um deles certamente é o mapeamento colaborativo. Para além do aspectos técnicos de como realizar o levantamento de dados e a compilação deles no Open Street Maps (OSM), um aspecto fundamental está no prazer de somar-se a um esforço coletivo global de milhões de pessoas em mapear o planeta.
+O esforço de conhecer e melhorar as cidades tem grandes aliados ainda pouco explorados. Um deles certamente é o mapeamento colaborativo. Para além dos aspectos técnicos de como realizar o levantamento de dados e a compilação deles no OpenStreetMap (OSM), um aspecto fundamental está no prazer de somar-se a um esforço coletivo global de milhões de pessoas em mapear o planeta.
 
 Organizada pela Código Urbano, a primeira maratona de mapeamento de infraestrutura cicloviária da cidade de São Paulo (Mapatona) aconteceu em 18 de janeiro de 2015. Como era de se esperar, estavam presentes quem pedala por prazer, esporte ou que nem ao menos pedala, mas quer uma cidade mais amigável à bicicleta.
 
@@ -39,15 +39,15 @@ Ações individuais são fundamentais, mas sem o amparo de um pensamento e enga
 
 Vale conhecer antes de mais nada o site da [Código Urbano](https://www.codigourbano.org/) e também as iniciativas presentes na Mapatona: [HackAgenda](https://www.hackagenda.com.br/); [PedalaSampa](https://www.facebook.com/pedalasampa); [Ciclocidade](https://ciclocidade.org.br/); [Mobilize](https://www.mobilize.org.br/); [Bicidade](https://bicidade.com.br/); [Transporte Ativo](https://ta.org.br/mapas); e [BikeIT!](https://www.bikeit.com.br/).
 
-Dos projetos dos próprios participantes, destaque para o [BikeIIT!](https://www.bikeit.com.br/) e os [mapas colaborativos da Transporte Ativo](https://ta.org.br/mapas). Vale destacar ainda outras iniciativas interessantes de mapeamento: [Wheelmap.org](https://wheelmap.org/); [Cyclestreets.net](https://www.cyclestreets.net/); [Ridethecity.com](https://ridethecity.com/); [Mapazonia.org](https://mapazonia.org/) e [Grelhas Assassinas em São Paulo](https://goo.gl/rwZ8QW).
+Dos projetos dos próprios participantes, destaque para o [BikeIT!](https://www.bikeit.com.br/) e os [mapas colaborativos da Transporte Ativo](https://ta.org.br/mapas). Vale destacar ainda outras iniciativas interessantes de mapeamento: [Wheelmap.org](https://wheelmap.org/); [Cyclestreets.net](https://www.cyclestreets.net/); [Ridethecity.com](https://ridethecity.com/); [Mapazonia.org](https://mapazonia.org/) e [Grelhas Assassinas em São Paulo](https://goo.gl/rwZ8QW).
 
 ## **Como colaborar no mapeamento da sua cidade**
 
 Para além da fronteira municipal da paulicéia pedalável, a contribuição ao mapeamento colaborativo pode ser feita em qualquer local do planeta. Cidade, campo, bairros consolidados ou comunidades precárias.
 
-A receita de bolo é, não necessarimente nessa ordem, ou em qualquer ordem de acontecimentos:
+A receita de bolo é, não necessariamente nessa ordem, ou em qualquer ordem de acontecimentos:
 
-- fazer um cadastro no Open Street Maps,
+- fazer um cadastro no OpenStreetMap,
 - consultar a plataforma Wiki, em especial o conteúdo sobre bicicletas
 - Traduzir os textos do Inglês na página Wiki do OSM (?)
 - Editar o mapa para incluir o que falta,
@@ -60,11 +60,17 @@ Como grande vantagem em qualquer plataforma colaborativa, está o fato de que to
 
 Toda reivindicação em relação ao poder público ganha força com o uso de imagens. A solução encontrada para o estacionamento de ambulâncias de um hospital privado no espaço público das ruas foi certamente inadequada para o melhor interesse dos ciclistas.
 
-![](/assets/images/mapillary-ambulancia-ciclofaixa-sp_jglacerda.jpg)
+<figure class="post-figure-center">
+<img src="/assets/images/mapillary-ambulancia-ciclofaixa-sp_jglacerda.jpg" width="560" height="420" alt="Foto Mapillary: ambulância estacionada na ciclofaixa em São Paulo" loading="lazy" />
+<figcaption>Exemplo de registro no Mapillary: estacionamento de ambulância na ciclofaixa.</figcaption>
+</figure>
 
 Ainda assim, é possível também inspirar o mundo através de um passeio em bicicleta.
 
-![](/assets/images/mapillary-aterro-nighto.jpg)
+<figure class="post-figure-center">
+<img src="/assets/images/mapillary-aterro-nighto.jpg" width="560" height="420" alt="Foto Mapillary: passeio noturno de bicicleta no Aterro do Flamengo (Rio)" loading="lazy" />
+<figcaption>Passeio noturno registrado no Mapillary (Aterro do Flamengo, Rio de Janeiro).</figcaption>
+</figure>
 
 Façamos o mapeamento, por cada vez mais infraestrutura de qualidade com mais pessoas em bicicleta mais vezes.
 

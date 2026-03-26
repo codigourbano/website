@@ -306,6 +306,25 @@ body {
   border: 0;
 }
 
+/* Google My Maps / Maps embed (fixed aspect from historical 640×480 embeds) */
+.embed-gmaps {
+  position: relative;
+  width: 100%;
+  max-width: 100%;
+  margin: 1.25em 0;
+  aspect-ratio: 4 / 3;
+  overflow: hidden;
+}
+
+.embed-gmaps iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
 /* OpenStreetMap export embeds */
 .embed-osm {
   clear: both;
