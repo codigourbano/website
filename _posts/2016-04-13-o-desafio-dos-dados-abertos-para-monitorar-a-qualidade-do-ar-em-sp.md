@@ -28,15 +28,17 @@ Com isso em mente, o Código Urbano trabalhou nos últimos 18 meses com a rede [
 
 O vídeo abaixo conta mais sobre o conceito do projeto e a implementação em São Paulo.
 
-https://vimeo.com/154353030
+<div class="embed-youtube">
+<iframe src="https://player.vimeo.com/video/154353030" title="Vídeo no Vimeo: sensores de qualidade do ar e projeto em São Paulo (Código Urbano / EJN)" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen loading="lazy"></iframe>
+</div>
 
 Em abril de 2014, com o apoio do [Feedback Labs](https://feedbacklabs.org/), o Código Urbano se juntou ao "Make Sense", um consórcio para testar a hipótese de que sensores de baixo custo poderiam ser usados para melhorar a capacidade de resposta à poluição do ar. Um conjunto diversificado de parceiros - incluindo [Frontline SMS](https://frontlinesms.com/), [SimLab](https://simlab.org/), a [Iniciativa Ground Truth](https://groundtruth.in/) e [Development Seed](https://developmentseed.org/) - foram mobilizados para contribuir para a criação de uma rede de sensores piloto em SP.
 
-Nos 18 meses seguintes, os parceiros projetaram e fabricaram um protótipo do DustDuino e desenvolveram o site [OpenDustMap.com](https://opendustmap.com/#search) para exibir leituras dos dispositivos. Além disso, [um manual para o uso do sensor](https://geojournalism.org/tracks/environmental-sensors/) foi escrito.
+Nos 18 meses seguintes, os parceiros projetaram e fabricaram um protótipo do DustDuino e desenvolveram o site OpenDustMap (domínio original fora do ar; [cópia de outubro de 2015 no Internet Archive](https://web.archive.org/web/20151004080753/https://opendustmap.com/)) para exibir leituras dos dispositivos. Além disso, [um manual para o uso do sensor](https://geojournalism.org/tracks/environmental-sensors/) foi escrito.
 
-<figure>
+<figure class="post-figure-center">
 
-<img src="/assets/images/poster_a3v2-212x300.png" alt="Poster sobre os efeitos da poluição do ar sobre a saúde e o funcionamento do DustDuino" />
+<img src="/assets/images/poster_a3v2-212x300.png" width="212" height="300" alt="Poster sobre os efeitos da poluição do ar sobre a saúde e o funcionamento do DustDuino" loading="lazy" />
 
 <figcaption>
 

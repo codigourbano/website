@@ -21,10 +21,10 @@ O documento original foi divulgado pela Companhia de Engenharia de Tráfego em
 
 O arquivo "_Protocolo PR 12024.accdb_" está no formato proprietário [Microsoft Access 2007](https://pt.wikipedia.org/wiki/Microsoft_Access). Ele contém informações sobre ocorrências, veículos e vítimas. Para facilitar a consulta, convertemos essas bases em [formato CSV](https://pt.wikipedia.org/wiki/Comma-separated_values) (campos separados por vírgula) que podem ser abertos no [LibreOffice](https://help.libreoffice.org/Calc/Importing_and_Exporting_CSV_Files/pt-BR) ou no [Excel](https://support.office.com/pt-br/article/Importar-ou-exportar-arquivos-de-texto-txt-ou-csv-e8ab9ff3-be8d-43f1-9d52-b5e8a008ba5c#bmimport_data_from_a_text_file_by_openi), disponibilizamos em nosso [repositório](https://github.com/codigourbano/ocorrencias-fatais-sp) no Github. A partir destes dados geramos tabelas com detalhes sobre as [ocorrências](https://github.com/codigourbano/ocorrencias-transito-pmsp#ocorrencias-2014csv), [vítimas](https://github.com/codigourbano/ocorrencias-transito-pmsp#ocorrencias-fatais-vitimas-2014csv) e [veículos envolvidos](https://github.com/codigourbano/ocorrencias-transito-pmsp#ocorrencias-fatais-veiculos-2014csv). Os significados de cada coluna nas tabelas são descritos no [dicionário de dados](https://github.com/codigourbano/ocorrencias-transito-pmsp#dicion%C3%A1rio-de-dados).
 
-<figure>
+<figure class="post-figure-center">
 
 <a href="/assets/images/mapa-ocorrencias-286x300-1.png">
-  <img src="/assets/images/mapa-ocorrencias-286x300-1.png" alt="Mapa de ocorrências de trânsito em SP em 2014" />
+  <img src="/assets/images/mapa-ocorrencias-286x300-1.png" width="286" height="300" alt="Mapa de ocorrências de trânsito em SP em 2014" loading="lazy" />
 </a>
 
 <figcaption>
@@ -44,9 +44,12 @@ O material está disponível em [domínio público](https://github.com/codigourb
 
 A imagem abaixo aponta os locais de ocorrências fatais e permite observar que, em 2014, os pontos mais críticos foram as avenidas, em especial as vias marginais dos rios Pinheiros e Tietê. A situação é especialmente delicada no Cebolão, complexo de viadutos em que essas duas vias expressas se encontram.
 
-![](/assets/images/mortes.png)
+<figure class="post-figure-center">
+<img src="/assets/images/mortes.png" width="844" height="446" alt="Mapa das ocorrências fatais no trânsito municipal de São Paulo em 2014" loading="lazy" />
+<figcaption>Ocorrências fatais em 2014: concentração em avenidas e vias marginais.</figcaption>
+</figure>
 
-Abrir dados, neste sentido, é também convidar a população a participar das decisões sobre questões que não são só técnicas, mas também políticas. A redução de velocidade adotada em muitas das avenidas em questão é um exemplo. A decisão gerou polêmica e questionamentos sobre a real necessidade de se desacelerar a cidade. Com o mapa aberto e uma visuação fica fácil identificar a gravidade da situação e onde são os pontos mais críticos.
+Abrir dados, neste sentido, é também convidar a população a participar das decisões sobre questões que não são só técnicas, mas também políticas. A redução de velocidade adotada em muitas das avenidas em questão é um exemplo. A decisão gerou polêmica e questionamentos sobre a real necessidade de se desacelerar a cidade. Com o mapa aberto e uma visualização aberta fica fácil identificar a gravidade da situação e onde são os pontos mais críticos.
 
 Esta base de dados é a primeira a ser disponibilizada na [página](https://transparencia.prefeitura.sp.gov.br/acesso-a-informacao/Paginas/CMAI-Comiss%C3%A3o-Municipal-de-Acesso-%C3%A0-Informa%C3%A7%C3%A3o.aspx) da Comissão Municipal de Acesso à Informação, no portal Transparência da Prefeitura Municipal de São Paulo. O precedente abre caminho para que os relatórios de outros anos (2015 e anos anteriores) sejam disponibilizados em formato legível por máquina, possibilitando a criação de mais visualizações especificas.
 

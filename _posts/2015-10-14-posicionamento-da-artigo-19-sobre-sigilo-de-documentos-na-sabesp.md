@@ -23,10 +23,10 @@ tags:
 
 A ARTIGO 19, organização que se pauta pela [defesa do direito à informação](https://artigo19.org/blog/quem-somos/), emitiu nota pública criticando a decisão do Governo do Estado de São Paulo de determinar sigilo de 15 anos sobre informações relativas ao abastecimento de água na Região Metropolitana de São Paulo pelo sistema gerenciado pela Companhia de Saneamento Ambiental do Estado de São Paulo (SABESP).
 
-<figure>
+<figure class="post-figure-center">
 
 <a href="/assets/images/cantareira-landsat8.png">
-  <img src="/assets/images/cantareira-landsat8.png" alt="Imagem aérea do Sistema Cantareira" />
+  <img src="/assets/images/cantareira-landsat8.png" width="521" height="353" alt="Imagem de satélite da represa principal do Sistema Cantareira (Landsat)" loading="lazy" />
 </a>
 
 <figcaption>
@@ -41,7 +41,10 @@ No texto, a ARTIGO 19 afirma que "considera que a justificativa para a classif
 
 Não é a primeira vez que os [gestores da SABESP](https://site.sabesp.com.br/site/interna/Default.aspx?secaoId=7) (_que hoje são Jerson Kelman, Manuelito Pereira Magalhães Junior, Rui de Britto Álvares Affonso, Edison Airoldi, Paulo Massato Yoshimoto e Luiz Paulo de Almeida Neto_) enfrentam questionamentos públicos por restringirem acesso a informações. O Ministério Público de São Paulo [chegou a acionar a companhia](https://www.mpsp.mp.br/portal/page/portal/noticias/noticia?id_noticia=13336366&id_grupo=118) para exigir mais transparência na divulgação de dados sobre o volume do Sistema Cantareira, um dos principais na rede de abastecimento de São Paulo. Em função da metodologia de difícil compreensão e pouca transparência da empresa, o Grupo de Atuação Especial de Defesa do Meio Ambiente (GAEMA) e a Promotoria de Justiça do Meio Ambiente da Capital ajuizaram [ação civil pública para garantir](https://www.mpsp.mp.br/portal/pls/portal/!PORTAL.wwpob_page.show?_docname=2563516.PDF) a divulgação dos dados. São tais informações que possibilitam a publicação do [Mananciais.tk](https://web.archive.org/web/20151010030149/http://mananciais.tk/), visualização produzida pelo **Código Urbano** que permitia acompanhar a evolução dos níveis dos reservatórios de água da cidade (o domínio original saiu do ar; o link abre uma captura de outubro de 2015 no Internet Archive).
 
-<a href="https://web.archive.org/web/20151010030149/http://mananciais.tk/"><img src="/assets/images/sabesp-mananciais.png" alt="Captura de tela do projeto Mananciais.tk: níveis dos reservatórios" /></a>
+<figure class="post-figure-center">
+<a href="https://web.archive.org/web/20151010030149/http://mananciais.tk/"><img src="/assets/images/sabesp-mananciais.png" width="600" height="298" alt="Captura de tela do projeto Mananciais.tk: níveis dos reservatórios" loading="lazy" /></a>
+<figcaption>Visualização Mananciais.tk (captura de 2015; <a href="https://web.archive.org/web/20151010030149/http://mananciais.tk/">Internet Archive</a>).</figcaption>
+</figure>
 
 Em sua [decisão](https://www.mpsp.mp.br/portal/page/portal/comunicacao/Newsletter/imagens_newsletter/ACPSABESP-volume%20negativo_2015_04_10.pdf), o Juiz Evandro Carlos de Oliveira, da 7ª Vara de Fazenda Pública, destacou que "a divulgação da informação tal como veiculada contém nítida capacidade de induzir o consumidor em erro, vez que a utilização dos volumes das reservas técnicas (situação excepcional) para a aferição do volume real disponível, cria a ilusão de que o sistema está positivo (fato que não corresponde à realidade quando analisado apenas o volume útil) e pode induzir o consumo imoderado do escasso bem".
 

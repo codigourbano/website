@@ -21,10 +21,10 @@ O projeto foi lançado no último Dia Internacional da Mulher, 8 de março, po
 
 > _Se digitar “mulher” e “bicicleta” no Youtube entre os vídeos brasileiros, por exemplo, aparecerão entre os primeiros resultados mulheres em biquínis ou roupas íntimas sobre bicicletas, com alguns closes na bunda, e notícias de acidentes de trânsito envolvendo mulheres, mas não mulheres praticando ciclismo como esporte, dando dicas de como pedalar diariamente na cidade ou ensinando a fazer manutenção_
 
-<figure>
+<figure class="post-figure-center">
 
 <a href="/assets/images/chave151.png">
-  <img src="/assets/images/chave151.png" alt="Imagem do projeto Chave Quinze" />
+  <img src="/assets/images/chave151.png" width="746" height="439" alt="Chave Quinze: ilustração de ferramentas de bicicleta" loading="lazy" />
 </a>
 
 <figcaption>
@@ -40,10 +40,10 @@ As duas toparam responder três perguntas para o Código Urbano, explicando mai
 **1 - Por que um projeto para democratizar conhecimento sobre mecânica de bicicletas?**  
 A inspiração veio com as oficinas de mecânica que as [Pedalinas](https://pedalinas.wordpress.com/) (um grupo de pedal exclusivo para mulheres) ofereciam, chamado Mão na Graxa. A ideia desses eventos era a de dar maior autonomia a mulheres para resolver problemas corriqueiros relacionados à mecânica de bicicleta, sem precisar da ajuda de outra pessoa (muitas vezes um homem), ainda mais se o imprevisto acontecesse em uma rua deserta. Além disso, havia o fato de que, até uns três anos atrás, não havia muitos vídeos de tutoriais de mecânica de bicicleta, e alguns não mostravam o passo a passo na íntegra. De lá para cá, surgiram mais canais didáticos, mas ainda assim faltava um dedicado a esse assunto que fosse apresentado por mulheres.
 
-<figure>
+<figure class="post-figure-center">
 
 <a href="/assets/images/dedo.png">
-  <img src="/assets/images/dedo.png" alt="Imagem do projeto Chave Quinze" />
+  <img src="/assets/images/dedo.png" width="525" height="483" alt="Chave Quinze: gesto / identidade visual do projeto" loading="lazy" />
 </a>
 
 <figcaption>
@@ -66,51 +66,51 @@ Na página do projeto, já são dez [tutoriais detalhados com textos](https://ch
   <tbody>
     <tr>
       <td>
-        <iframe src="https://www.youtube.com/embed/eJQai0PQfm0" title="Chave Quinze: tipos de bicos de câmara de ar" width="300" height="169" allowfullscreen loading="lazy"></iframe>
+        <iframe src="https://www.youtube.com/embed/eJQai0PQfm0" title="Chave Quinze: tipos de bicos de câmara de ar" width="300" height="169" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe>
         <p><a href="https://chavequinze.com/2015/07/14/tipos-de-bico-de-camara/">tipos de bicos de câmara de ar</a></p>
       </td>
       <td>
-        <iframe src="https://www.youtube.com/embed/OmuRfMhM3Es" title="Chave Quinze: limpar e lubrificar cabos" width="300" height="169" allowfullscreen loading="lazy"></iframe>
+        <iframe src="https://www.youtube.com/embed/OmuRfMhM3Es" title="Chave Quinze: limpar e lubrificar cabos" width="300" height="169" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe>
         <p><a href="https://chavequinze.com/2015/06/29/como-limpar-e-lubrificar-cabos-cuidados-com-maresia/">como limpar e lubrificar cabos</a></p>
       </td>
     </tr>
     <tr>
       <td>
-        <iframe src="https://www.youtube.com/embed/uCOxUQ8a1Y8" title="Chave Quinze: remendar corrente" width="300" height="169" allowfullscreen loading="lazy"></iframe>
+        <iframe src="https://www.youtube.com/embed/uCOxUQ8a1Y8" title="Chave Quinze: remendar corrente" width="300" height="169" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe>
         <p><a href="https://chavequinze.com/2015/06/18/como-remendar-corrente/">como remendar corrente</a></p>
       </td>
       <td>
-        <iframe src="https://www.youtube.com/embed/piURLmW2eNg" title="Chave Quinze: ajustar freio v-brake (parte 3)" width="300" height="169" allowfullscreen loading="lazy"></iframe>
+        <iframe src="https://www.youtube.com/embed/piURLmW2eNg" title="Chave Quinze: ajustar freio v-brake (parte 3)" width="300" height="169" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe>
         <p><a href="https://chavequinze.com/2015/06/01/como-ajustar-freio-v-brake-parte-3/">como ajustar freio v-brake (parte 3)</a></p>
       </td>
     </tr>
     <tr>
       <td>
-        <iframe src="https://www.youtube.com/embed/DigAHtpdTSw" title="Chave Quinze: ajustar freio v-brake (parte 2)" width="300" height="169" allowfullscreen loading="lazy"></iframe>
+        <iframe src="https://www.youtube.com/embed/DigAHtpdTSw" title="Chave Quinze: ajustar freio v-brake (parte 2)" width="300" height="169" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe>
         <p><a href="https://chavequinze.com/2015/05/18/como-ajustar-freio-v-brake-parte-2/">como ajustar freio v-brake (parte 2)</a></p>
       </td>
       <td>
-        <iframe src="https://www.youtube.com/embed/wBOqfQnRVcE" title="Chave Quinze: ajustar freio v-brake (parte 1)" width="300" height="169" allowfullscreen loading="lazy"></iframe>
+        <iframe src="https://www.youtube.com/embed/wBOqfQnRVcE" title="Chave Quinze: ajustar freio v-brake (parte 1)" width="300" height="169" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe>
         <p><a href="https://chavequinze.com/2015/05/04/como-ajustar-freio-v-brake-parte-1/">como ajustar freio v-brake (parte 1)</a></p>
       </td>
     </tr>
     <tr>
       <td>
-        <iframe src="https://www.youtube.com/embed/JqbPnwGYi-8" title="Chave Quinze: roda traseira de bike fixa" width="300" height="169" allowfullscreen loading="lazy"></iframe>
+        <iframe src="https://www.youtube.com/embed/JqbPnwGYi-8" title="Chave Quinze: roda traseira de bike fixa" width="300" height="169" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe>
         <p><a href="https://chavequinze.com/2015/04/20/como-colocar-roda-traseira-de-bike-fixa-e-tensionar-corrente/">como colocar roda traseira de fixa</a></p>
       </td>
       <td>
-        <iframe src="https://www.youtube.com/embed/Jjv2ck2PCNM" title="Chave Quinze: lubrificar a corrente" width="300" height="169" allowfullscreen loading="lazy"></iframe>
+        <iframe src="https://www.youtube.com/embed/Jjv2ck2PCNM" title="Chave Quinze: lubrificar a corrente" width="300" height="169" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe>
         <p><a href="https://chavequinze.com/2015/04/01/como-lubrificar-corrente/">como lubrificar a corrente</a></p>
       </td>
     </tr>
     <tr>
       <td>
-        <iframe src="https://www.youtube.com/embed/4y7j06NeEEo" title="Chave Quinze: remendar câmara" width="300" height="169" allowfullscreen loading="lazy"></iframe>
+        <iframe src="https://www.youtube.com/embed/4y7j06NeEEo" title="Chave Quinze: remendar câmara" width="300" height="169" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe>
         <p><a href="https://chavequinze.com/2015/03/23/como-remendar-camarafurada/">como remendar câmara</a></p>
       </td>
       <td>
-        <iframe src="https://www.youtube.com/embed/L19SYOKwCq8" title="Chave Quinze: trocar câmara da roda traseira" width="300" height="169" allowfullscreen loading="lazy"></iframe>
+        <iframe src="https://www.youtube.com/embed/L19SYOKwCq8" title="Chave Quinze: trocar câmara da roda traseira" width="300" height="169" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen loading="lazy"></iframe>
         <p><a href="https://chavequinze.com/2015/03/08/como-tirar-e-colocar-roda-traseira-de-bicicleta-e-trocar-camara-de-ar-furada/">como trocar câmara da roda traseira</a></p>
       </td>
     </tr>

@@ -27,7 +27,7 @@ Na Argentina, um trabalho de mapeamento detalhado e de monitoramento da constru�
 
 <figure class="post-figure-end">
 
-<img src="/assets/images/umedales1-300x218.png" width="300" height="218" alt="Mapa: empreendimentos e canais em áreas úmidas" />
+<img src="/assets/images/umedales1-300x218.png" width="300" height="218" alt="Mapa: empreendimentos e canais em áreas úmidas" loading="lazy" />
 
 </figure>
 
@@ -41,7 +41,7 @@ Para a construção de casas de luxo em áreas alagáveis têm sido utilizadas t
 
 <figure class="post-figure-end">
 
-<img src="/assets/images/contraste-300x268.png" width="300" height="268" alt="Condomínio privado cercado por muro em área mais alta ao lado de bairro alagado" />
+<img src="/assets/images/contraste-300x268.png" width="300" height="268" alt="Condomínio privado cercado por muro em área mais alta ao lado de bairro alagado" loading="lazy" />
 
 <figcaption>
 

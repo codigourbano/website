@@ -23,10 +23,10 @@ Os softwares livres oferecem uma gama de possibilidades e têm sido usados em di
 
 O protótipo do projeto, feito com Arduino, faz uma medição de partículas de combustível fóssil ou de queimadas e informa, em tempo real, as alterações ocorridas ao longo do dia. "Ele consegue detectar partículas de 2,5 e 10 micrômetros, e a leitura de partículas desse tamanho no ar consegue inferir em tempo real se existe queima próximo a uma floresta que represente perigo de devastação, por exemplo", explica Ricardo Guimarães, o Guima, desenvolvedor da Associação Ecologia Digital.
 
-<figure>
+<figure class="post-figure-center">
 
 <a href="/assets/images/sensor_de_qualidade_do_ar_dustduino.jpg">
-  <img src="/assets/images/sensor_de_qualidade_do_ar_dustduino.jpg" width="713" height="475" alt="Sensor de qualidade do ar feito com Arduino. Foto: Ana Elisa Santana / Portal EBC — CC BY 3.0" />
+  <img src="/assets/images/sensor_de_qualidade_do_ar_dustduino.jpg" width="713" height="475" alt="Sensor de qualidade do ar feito com Arduino. Foto: Ana Elisa Santana / Portal EBC — CC BY 3.0" loading="lazy" />
 </a>
 
 <figcaption>

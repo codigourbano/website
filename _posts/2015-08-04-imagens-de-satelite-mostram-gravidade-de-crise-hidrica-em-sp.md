@@ -28,7 +28,10 @@ O inverno começou em 21 de junho e, este ano, as chuvas do primeiro semestre n�
 
 O encolhimento de uma das principais reservas de água da capital não aconteceu de uma hora para outra. Em sequência, imagens do satélite Landsat 7, da Nasa, mostram como a represa de Jaguari foi diminuindo até julho de 2015: 13 de junho de 2010, 18 de abril de 2013, 13 de maio de 2014 e 13 de julho de 2015. De 2003 a 2015, houve variações consideráveis no nível do Sistema Cantareira, como no histórico do projeto **Mananciais** (domínio fora do ar; [captura de 2015 no Internet Archive](https://web.archive.org/web/20151010030149/http://mananciais.tk/)), mas nunca a situação foi tão grave.
 
-<a href="https://web.archive.org/web/20151010030149/http://mananciais.tk/"><img src="/assets/images/05082015-sistema-cantareira-grafico.jpg" alt="Gráfico do sistema Cantareira no projeto Mananciais (arquivo)" /></a>
+<figure class="post-figure-center">
+<a href="https://web.archive.org/web/20151010030149/http://mananciais.tk/"><img src="/assets/images/05082015-sistema-cantareira-grafico.jpg" width="811" height="414" alt="Gráfico do sistema Cantareira no projeto Mananciais (captura de 2015, Internet Archive)" loading="lazy" /></a>
+<figcaption>Evolução dos reservatórios no projeto Mananciais (domínio original fora do ar; ligação para o <a href="https://web.archive.org/web/20151010030149/http://mananciais.tk/">Internet Archive</a>).</figcaption>
+</figure>
 
 Além de não ser novidade, a diminuição do reservatório não é fato isolado na região, onde diferentes reservas e fontes de água secaram nos últimos anos. O fenômeno está ligado não só à redução do volume de chuvas, mas também ao desmatamento e ocupação irregular de áreas de mananciais.
 
@@ -38,9 +41,9 @@ A crise hídrica de São Paulo e a situação do Sistema Cantareira deram força
 
 De autoria dos deputados estaduais Barros Munhoz (PSDB), Campos Machado (PTB), Estevam Galvão (DEM), Itamar Borges (PMDB), José Bittencourt (PSD) e Roberto Morais (PPS), o projeto foi especialmente criticado por, em um momento em que a cidade vive racionamento constante de água, propor a diminuição da proteção de nascentes e olhos d’água, reduzindo a faixa de preservação permanente de 50 metros para apenas 15 metros em áreas consolidadas. O texto também permite que proprietários possam compensar o desmatamento em São Paulo com reflorestamento em outros estados.
 
-<figure>
+<figure class="post-figure-center">
 
-<img src="/assets/images/05082015-deps-sao-paulo.jpg" alt="Deputados autores da Lei do Desmatamento" />
+<img src="/assets/images/05082015-deps-sao-paulo.jpg" width="811" height="541" alt="Montagem com fotos dos deputados estaduais autores da Lei do Desmatamento (ALESP)" loading="lazy" />
 
 <figcaption>
 
@@ -54,7 +57,10 @@ O projeto acabou [aprovado pela Assembleia Legislativa no final de 2014](https:
 
 Para mensurar os efeitos da alteração de legislação nos próximos anos pesquisadores e acadêmicos hoje podem contar com a ajuda de satélites e tecnologias específicas. É fácil estabelecer parâmetros e monitorar casos específicos, como o da Represa de Jaguari. Além da comparação pura e simples de imagens, dá para desenvolver sistemas que, com a ajuda de filtros e modelos matemáticos, podem alertar automaticamente variações drásticas. Como exemplo, com a ajuda do [Resemble.js](https://github.com/Huddle/Resemble.js), biblioteca aberta de análise e comparação de imagens, organizamos essa representação que destaca em rosa as mudanças registradas no nível da represa de Jaguari de 2010 a 2014.
 
-<a href="/assets/images/contraste-represa.png"><img src="/assets/images/contraste-represa.png" alt="Comparação em rosa: mudanças no nível da represa de Jaguari entre 2010 e 2014 (Resemble.js)" /></a>
+<figure class="post-figure-center">
+<a href="/assets/images/contraste-represa.png"><img src="/assets/images/contraste-represa.png" width="651" height="502" alt="Comparação em rosa: mudanças no nível da represa de Jaguari entre 2010 e 2014 (Resemble.js)" loading="lazy" /></a>
+<figcaption>Destaque em rosa das alterações na represa de Jaguari (2010–2014), com a biblioteca <a href="https://github.com/Huddle/Resemble.js">Resemble.js</a>.</figcaption>
+</figure>
 
 <aside class="editors-note editors-note--footer" role="note">
 <p class="editors-note-kicker">Atualização e notas do arquivo</p>

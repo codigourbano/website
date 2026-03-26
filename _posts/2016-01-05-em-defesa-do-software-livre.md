@@ -31,7 +31,9 @@ A perspectiva (ou mesmo concretude) de um mundo em que é possível compartilha
 
 A questão da liberdade de software é apresentada como um ponto-chave para a constituição da democracia - questão detalhada no artigo [Por que a liberdade política depende da liberdade de software mais que nunca](https://endefensadelsl.org/por_que_la_libertad_politica.html). O contexto de mudanças em curso na internet, com formatos mais centralizados e controlados, e plataformas que regulam e mediam a transmissão de informações (como o Facebook), está detalhado no capítulo "Pegos na teia de mundial" da versão em espanhol do [Manifesto Telecomunista](https://www.rosalux.org.mx/articulo/el-manifiesto-telecomunista-0) de [Dmytri Kleiner,](https://www.dmytri.info/) traduzida e impressa com o apoio do escritório da [Fundação Rosa Luxemburgo no México](https://www.rosalux.org.mx/).
 
-<a href="https://endefensadelsl.org/ppl_deed_es.html"><img src="/assets/images/nc.png" alt="Licença de Produção de Pares (trecho ilustrativo)" /></a>
+<figure class="post-figure-center">
+<a href="https://endefensadelsl.org/ppl_deed_es.html"><img src="/assets/images/nc.png" width="71" height="71" alt="Ícone ilustrativo da Licença de Produção de Pares (copyfarleft)" loading="lazy" /></a>
+</figure>
 
 Entre os textos, é possível encontrar também um histórico sobre como o sistema de copyright foi instituído - ver o capítulo "O copyright é um sistema de censura e exploração" do mesmo livro. Em oposição às restrições impostas pelo copyright, o grupo defende a adoção da [Licença de Produção de Pares](https://endefensadelsl.org/ppl_deed_es.html), uma versão mais radical das licenças de formato aberto que, além de atribuição e compartilhamento igual, prevê também que qualquer exploração comercial da obra em questão deve ser "não capitalista", ou seja, "só está permitida a cooperativas, organizações e coletivos sem fins lucrativos, a organizações de trabalhadores autogestionados e onde não existam relações de exploração".
 
@@ -43,8 +45,11 @@ A licença de conteúdo do Código Urbano hoje é a [Creative Commons 4.0 BY-SA]
 
 [Clique aqui para acessar a relação completa](https://endefensadelsl.org/) de artigos e publicações ou nas imagens abaixo para baixar o PDF das obras publicadas até agora.
 
-[![Capa de En Defensa del Software Libre Nro. 0](/assets/images/df1.png)](https://endefensadelsl.org/EDSL0.html)
-[![Capa de En Defensa del Software Libre Nro. 1](/assets/images/df2.png)](https://endefensadelsl.org/EDSL1.html)
-[![Capa de En Defensa del Software Libre Nro. 2](/assets/images/df3.png)](https://endefensadelsl.org/EDSL2.html)
-[![Capa de Manifiesto Telecomunista](/assets/images/mn1.png)](https://endefensadelsl.org/ManifiestoTelecomunista.html)
-[![Capa de Redes Inalámbricas](/assets/images/ri1.png)](https://endefensadelsl.org/RIPD.html)
+<figure class="post-figure-center">
+<a href="https://endefensadelsl.org/EDSL0.html"><img src="/assets/images/df1.png" width="133" height="197" alt="Capa: En Defensa del Software Libre nº 0" loading="lazy" /></a>
+<a href="https://endefensadelsl.org/EDSL1.html"><img src="/assets/images/df2.png" width="138" height="197" alt="Capa: En Defensa del Software Libre nº 1" loading="lazy" /></a>
+<a href="https://endefensadelsl.org/EDSL2.html"><img src="/assets/images/df3.png" width="140" height="197" alt="Capa: En Defensa del Software Libre nº 2" loading="lazy" /></a>
+<a href="https://endefensadelsl.org/ManifiestoTelecomunista.html"><img src="/assets/images/mn1.png" width="129" height="187" alt="Capa: Manifiesto Telecomunista" loading="lazy" /></a>
+<a href="https://endefensadelsl.org/RIPD.html"><img src="/assets/images/ri1.png" width="135" height="177" alt="Capa: Redes Inalámbricas" loading="lazy" /></a>
+<figcaption>Publicações em PDF no site <a href="https://endefensadelsl.org/">En Defensa del Software Libre</a> (clique em cada capa).</figcaption>
+</figure>

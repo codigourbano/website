@@ -38,6 +38,9 @@ No comparativo sobre o distrito de Bento Rodrigues (mesmas datas, julho e novemb
 
 As imagens de satélite inseridas nesta matéria também estão servindo de base para um grupo de voluntários de todo o Brasil que, remotamente, estão produzindo um novo mapa da região. Estas informações são editadas e distribuídas no [OpenStreetMap](https://www.openstreetmap.org), o mapa aberto do mundo. Todos os dados produzidos são redistribuídos e estão disponíveis sob uma [licença aberta](https://www.openstreetmap.org/copyright), permitindo que sejam reutilizados para qualquer fim, sem necessidade de autorização de uso. Na imagem abaixo, que mostra a [divisão de tarefas entre os voluntários](https://tasks.hotosm.org/project/1317), é possível ver a área que está sendo mapeada inicialmente:
 
-<a href="https://tasks.hotosm.org/project/1317"><img src="/assets/images/Captura-de-tela-2015-11-12-09.48.50-1.png" alt="Captura da plataforma de tarefas HotOSM para mapeamento em Mariana" /></a>
+<figure class="post-figure-center">
+<a href="https://tasks.hotosm.org/project/1317"><img src="/assets/images/Captura-de-tela-2015-11-12-09.48.50-1.png" width="976" height="604" alt="Captura da plataforma de tarefas Humanitarian OpenStreetMap para mapeamento em Mariana" loading="lazy" /></a>
+<figcaption>Tarefa HOTOSM <a href="https://tasks.hotosm.org/project/1317">#1317</a> (mapeamento humanitário pós-rompimento de barragem).</figcaption>
+</figure>
 
 O objetivo é que este novo mapa dê subsídios para comunidade local e organismos atuantes na região avaliem o impacto e trabalhem melhor para mitigação dos efeitos da tragédia. Qualquer pessoa pode participar. Para isso, basta ter acesso a um computador com internet e seguir as instruções na [página wiki da campanha de mapeamento](https://wiki.openstreetmap.org/wiki/Pt:2015_Mariana_Dam_Collapse).

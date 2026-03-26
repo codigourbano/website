@@ -18,10 +18,10 @@ Um conjunto de dados só pode ser considerado aberto, segundo [diferentes](https
 
 Após importar um PDF ao programa, é possível marcar as áreas onde estão posicionadas as tabelas que serão processadas, como na imagem:
 
-<figure>
+<figure class="post-figure-center">
 
 <a href="/assets/images/Captura-de-tela-2015-10-16-15.29.14.png">
-  <img src="/assets/images/Captura-de-tela-2015-10-16-15.29.14-1024x637.png" alt="Seleção de tabelas no Tabula" />
+  <img src="/assets/images/Captura-de-tela-2015-10-16-15.29.14-1024x637.png" width="1024" height="637" alt="Seleção de tabelas no Tabula para extrair dados do PDF da Sabesp" loading="lazy" />
 </a>
 
 <figcaption>
