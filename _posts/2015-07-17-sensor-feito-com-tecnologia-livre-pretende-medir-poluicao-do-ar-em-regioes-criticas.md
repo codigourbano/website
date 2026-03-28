@@ -66,3 +66,8 @@ Com o sensor Mãe D'água, também feito com tecnologia livre, a leitura será f
 Assim como o sensor de poluição do ar, o Mãe d'água enviará os dados coletados para visualização online, este na plataforma de monitoramento da Infoamazônia. Os moradores da região, por sua vez, vão poder também se cadastrar pra receber as informações por SMS.
 
 **Leia também:** [Primeiro sensor independente para monitorar poluição é instalado em SP]({% post_url 2015-03-26-primeiro-sensor-independente-para-monitorar-poluicao-e-instalado-em-sp %})
+
+<aside class="editors-note editors-note--footer" role="note">
+<p class="editors-note-kicker">Nota do arquivo</p>
+<p>A plataforma <strong>OpenDustMap</strong> mencionada foi descontinuada. O projeto de sensores DustDuino / Código Urbano foi <strong>encerrado em 2019</strong>. A página do OpenDustMap não existe mais; o link no texto aponta para uma cópia no Internet Archive (2015). Para documentação histórica do sensor DustDuino, ver o <a href="https://github.com/MattSchroyer/DustDuino">repositório no GitHub</a> e o <a href="https://web.archive.org/web/20150331235310/http://publiclab.org/wiki/dustduino">Public Lab (Internet Archive)</a>.</p>
+</aside>
